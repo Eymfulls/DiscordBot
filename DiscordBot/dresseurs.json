@@ -1,0 +1,342 @@
+{
+    "data": [
+        {
+            "id": 305775114954473474,
+            "dtag": "Pragorius",
+            "pokemon": [
+                "Torterra",
+                "Haydaim",
+                "Blizzaroi",
+                "Desséliande",
+                "Florizarre",
+                "Noadkoko Kanto",
+                "Jungko",
+                "Farfaduvet",
+                "Vacilys",
+                "Cotovol",
+                "Roserade",
+                "Ludicolo",
+                "Noacier",
+                "Lampignon",
+                "Manternel",
+                "Cacturne",
+                "Blindépique",
+                "Majaspic"
+            ],
+            "badges": [
+                {
+                    "type": "Feu",
+                    "Victoire": true,
+                    "nbDefis": 1,
+                    "dateVictoire": "2025-02-01"
+                },
+                {
+                    "type": "Plante",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-01"
+                },
+                {
+                    "type": "Poison",
+                    "Victoire": false,
+                    "nbDefis": 1,
+                    "dateVictoire": ""
+                },
+                {
+                    "type": "Glace",
+                    "Victoire": false,
+                    "nbDefis": 1,
+                    "dateVictoire": ""
+                },
+                {
+                    "type": "Psy",
+                    "Victoire": false,
+                    "nbDefis": 3,
+                    "dateVictoire": ""
+                }
+            ]
+        },
+        {
+            "id": 321668990483169282,
+            "dtag": "Gold",
+            "pokemon": [
+                "Corboss",
+                "Brutalibré",
+                "Yanméga",
+                "Bruyverne",
+                "Étouraptor",
+                "Togekiss",
+                "Cornèbre",
+                "Vaututrice",
+                "Airmure",
+                "Dracaufeu",
+                "Bekipan",
+                "Dracolosse",
+                "Drattak",
+                "Ptéra",
+                "Scorvol",
+                "Nostenfer",
+                "Léviator",
+                "Flambusard"
+            ],
+            "badges": []
+        },
+        {
+            "id": 792098954342957096,
+            "dtag": "Bláthanna",
+            "pokemon": [],
+            "badges": []
+        },
+        {
+            "id": 264436015471656971,
+            "dtag": "Meracx",
+            "pokemon": [
+                "Alakazam",
+                "Gardevoir",
+                "Métalosse",
+                "Flagadoss",
+                "Goupelin",
+                "Kaorine",
+                "Gouroutan",
+                "Mentali",
+                "Staross",
+                "Cryptéro",
+                "Gallame",
+                "Sepiatroce",
+                "Lippoutou",
+                "Archéodong",
+                "Charmina",
+                "Symbios",
+                "Raichu Alola",
+                "Mistigrix Mâle"
+            ],
+            "badges": [
+                {
+                    "type": "Poison",
+                    "Victoire": false,
+                    "nbDefis": 1,
+                    "dateVictoire": ""
+                },
+                {
+                    "type": "Plante",
+                    "Victoire": true,
+                    "nbDefis": 2,
+                    "dateVictoire": "2025-02-03"
+                },
+                {
+                    "type": "Roche",
+                    "Victoire": true,
+                    "nbDefis": 1,
+                    "dateVictoire": "2025-02-04"
+                },
+                {
+                    "type": "Vol",
+                    "Victoire": true,
+                    "nbDefis": 1,
+                    "dateVictoire": "2025-02-04"
+                },
+                {
+                    "type": "Psy",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-04"
+                },
+                {
+                    "type": "Spectre",
+                    "Victoire": true,
+                    "nbDefis": 2,
+                    "dateVictoire": "2025-02-04"
+                }
+            ]
+        },
+        {
+            "id": 451369556020035584,
+            "dtag": "Teto-Tourtangeau",
+            "pokemon": [
+                "Bétochef",
+                "Simiabraz",
+                "Pandarbare",
+                "Lucario",
+                "Braségali",
+                "Chapignon",
+                "Colossinge",
+                "Shaofouine",
+                "Kicklee",
+                "Ékaïser",
+                "Tartard",
+                "Gallame",
+                "Coatox",
+                "Kapoera",
+                "Brutalibré",
+                "Charmina",
+                "Baggaïd",
+                "Scarhino"
+            ],
+            "badges": [
+                {
+                    "type": "Psy",
+                    "Victoire": false,
+                    "nbDefis": 1,
+                    "dateVictoire": ""
+                }
+            ]
+        },
+        {
+            "id": 310445088952287232,
+            "dtag": "AsaNihilum",
+            "pokemon": [
+                "Dracolosse",
+                "Métalosse",
+                "Bétochef",
+                "Ténéfix",
+                "Motisma",
+                "Félinferno",
+                "Dracaufeu",
+                "Leuphorie",
+                "Ossatueur Alola",
+                "Noacier",
+                "Mélodelfe",
+                "Azumarill",
+                "Amphinobi",
+                "Drattak",
+                "Bouldeneu",
+                "Scorvol",
+                "Feunard Alola",
+                "Ectoplasma"
+            ],
+            "badges": [
+                {
+                    "type": "Poison",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-01"
+                }
+            ]
+        },
+        {
+            "id": 451171776664174593,
+            "dtag": "Kuro",
+            "pokemon": [],
+            "badges": []
+        },
+        {
+            "id": 141195266555379712,
+            "dtag": "Vinc2612",
+            "pokemon": [
+                "Queulorior",
+                "Draïeul",
+                "Leuphorie",
+                "Roucarnage",
+                "Gouroutan",
+                "Silvallié",
+                "Kangourex",
+                "Frison",
+                "Chelours",
+                "Porygon2",
+                "Lockpin",
+                "Iguolta",
+                "Porygon-Z",
+                "Némélios",
+                "Étouraptor",
+                "Excavarenne",
+                "Haydaim",
+                "Ronflex"
+            ],
+            "badges": [
+                {
+                    "type": "Plante",
+                    "Victoire": false,
+                    "nbDefis": 1,
+                    "dateVictoire": ""
+                },
+                {
+                    "type": "Normal",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-01"
+                },
+                {
+                    "type": "Insecte",
+                    "Victoire": true,
+                    "nbDefis": 1,
+                    "dateVictoire": "2025-02-01"
+                }
+            ]
+        },
+        {
+            "id": 1279186286825181320,
+            "dtag": "Saki3109",
+            "pokemon": [
+                "Fermite",
+                "Métalosse",
+                "Pingoléon",
+                "Lucario",
+                "Noacier",
+                "Airmure",
+                "Mysdibule",
+                "Cizayox"
+            ],
+            "badges": [
+                {
+                    "type": "Acier",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-04"
+                }
+            ]
+        },
+        {
+            "id": 221352736657113088,
+            "dtag": "thunderfenril",
+            "pokemon": [
+                "Mélodelfe",
+                "Leveinard",
+                "Ectoplasma",
+                "Laggron",
+                "Airmure",
+                "Drattak",
+                "Darumacho",
+                "Porygon-Z",
+                "Étouraptor",
+                "Pyrax",
+                "Roucarnage",
+                "Ossatueur Alola",
+                "Tarenbulle",
+                "Minotaupe",
+                "Amphinobi",
+                "Cizayox",
+                "Bekipan",
+                "Exagide"
+            ],
+            "badges": [
+                {
+                    "type": "Eau",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-04"
+                }
+            ]
+        },
+        {
+            "id": 860810726985302036,
+            "dtag": "𝕿𝖍𝖔𝖒𝕻𝖑𝖆𝖓",
+            "pokemon": [],
+            "badges": []
+        },
+        {
+            "id": 294980584105836544,
+            "dtag": "Yuzu",
+            "pokemon": [
+                "Métalosse"
+            ],
+            "badges": [
+                {
+                    "type": "Spectre",
+                    "Victoire": true,
+                    "nbDefis": 0,
+                    "dateVictoire": "2025-02-04"
+                }
+            ]
+        }
+    ]
+}

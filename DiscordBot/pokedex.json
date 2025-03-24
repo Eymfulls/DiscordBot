@@ -1,0 +1,6463 @@
+[
+    {
+        "dexnum": "0001",
+        "ennom": "Bulbasaur",
+        "frnom": "Bulbizarre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0002",
+        "ennom": "Ivysaur",
+        "frnom": "Herbizarre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0003",
+        "ennom": "Venusaur",
+        "frnom": "Florizarre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0004",
+        "ennom": "Charmander",
+        "frnom": "Salamèche",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0005",
+        "ennom": "Charmeleon",
+        "frnom": "Reptincel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0006",
+        "ennom": "Charizard",
+        "frnom": "Dracaufeu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0007",
+        "ennom": "Squirtle",
+        "frnom": "Carapuce",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0008",
+        "ennom": "Wartortle",
+        "frnom": "Carabaffe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0009",
+        "ennom": "Blastoise",
+        "frnom": "Tortank",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0010",
+        "ennom": "Caterpie",
+        "frnom": "Chenipan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0011",
+        "ennom": "Metapod",
+        "frnom": "Chrysacier",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0012",
+        "ennom": "Butterfree",
+        "frnom": "Papilusion",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0013",
+        "ennom": "Weedle",
+        "frnom": "Aspicot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0014",
+        "ennom": "Kakuna",
+        "frnom": "Coconfort",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0015",
+        "ennom": "Beedrill",
+        "frnom": "Dardargnan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0016",
+        "ennom": "Pidgey",
+        "frnom": "Roucool",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0017",
+        "ennom": "Pidgeotto",
+        "frnom": "Roucoups",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0018",
+        "ennom": "Pidgeot",
+        "frnom": "Roucarnage",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0019",
+        "ennom": "Rattata",
+        "frnom": "Rattata",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0020",
+        "ennom": "Raticate",
+        "frnom": "Rattatac",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0021",
+        "ennom": "Spearow",
+        "frnom": "Piafabec",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0022",
+        "ennom": "Fearow",
+        "frnom": "Rapasdepic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0023",
+        "ennom": "Ekans",
+        "frnom": "Abo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0024",
+        "ennom": "Arbok",
+        "frnom": "Arbok",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0025",
+        "ennom": "Pikachu",
+        "frnom": "Pikachu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0026",
+        "ennom": "Raichu",
+        "frnom": "Raichu",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0027",
+        "ennom": "Sandshrew",
+        "frnom": "Sabelette",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0028",
+        "ennom": "Sandslash",
+        "frnom": "Sablaireau",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0029",
+        "ennom": "Nidoran♀",
+        "frnom": "Nidoran♀",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0030",
+        "ennom": "Nidorina",
+        "frnom": "Nidorina",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0031",
+        "ennom": "Nidoqueen",
+        "frnom": "Nidoqueen",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0032",
+        "ennom": "Nidoran♂",
+        "frnom": "Nidoran♂",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0033",
+        "ennom": "Nidorino",
+        "frnom": "Nidorino",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0034",
+        "ennom": "Nidoking",
+        "frnom": "Nidoking",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0035",
+        "ennom": "Clefairy",
+        "frnom": "Mélofée",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0036",
+        "ennom": "Clefable",
+        "frnom": "Mélodelfe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0037",
+        "ennom": "Vulpix",
+        "frnom": "Goupix",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0038",
+        "ennom": "Ninetales",
+        "frnom": "Feunard",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0039",
+        "ennom": "Jigglypuff",
+        "frnom": "Rondoudou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0040",
+        "ennom": "Wigglytuff",
+        "frnom": "Grodoudou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0041",
+        "ennom": "Zubat",
+        "frnom": "Nosferapti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0042",
+        "ennom": "Golbat",
+        "frnom": "Nosferalto",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0043",
+        "ennom": "Oddish",
+        "frnom": "Mystherbe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0044",
+        "ennom": "Gloom",
+        "frnom": "Ortide",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0045",
+        "ennom": "Vileplume",
+        "frnom": "Rafflesia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0046",
+        "ennom": "Paras",
+        "frnom": "Paras",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0047",
+        "ennom": "Parasect",
+        "frnom": "Parasect",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0048",
+        "ennom": "Venonat",
+        "frnom": "Mimitoss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0049",
+        "ennom": "Venomoth",
+        "frnom": "Aéromite",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0050",
+        "ennom": "Diglett",
+        "frnom": "Taupiqueur",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0051",
+        "ennom": "Dugtrio",
+        "frnom": "Triopikeur",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0052",
+        "ennom": "Meowth",
+        "frnom": "Miaouss",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0053",
+        "ennom": "Persian",
+        "frnom": "Persian",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0054",
+        "ennom": "Psyduck",
+        "frnom": "Psykokwak",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0055",
+        "ennom": "Golduck",
+        "frnom": "Akwakwak",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0056",
+        "ennom": "Mankey",
+        "frnom": "Férosinge",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0057",
+        "ennom": "Primeape",
+        "frnom": "Colossinge",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0058",
+        "ennom": "Growlithe",
+        "frnom": "Caninos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0059",
+        "ennom": "Arcanine",
+        "frnom": "Arcanin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0060",
+        "ennom": "Poliwag",
+        "frnom": "Ptitard",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0061",
+        "ennom": "Poliwhirl",
+        "frnom": "Têtarte",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0062",
+        "ennom": "Poliwrath",
+        "frnom": "Tartard",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0063",
+        "ennom": "Abra",
+        "frnom": "Abra",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0064",
+        "ennom": "Kadabra",
+        "frnom": "Kadabra",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0065",
+        "ennom": "Alakazam",
+        "frnom": "Alakazam",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0066",
+        "ennom": "Machop",
+        "frnom": "Machoc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0067",
+        "ennom": "Machoke",
+        "frnom": "Machopeur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0068",
+        "ennom": "Machamp",
+        "frnom": "Mackogneur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0069",
+        "ennom": "Bellsprout",
+        "frnom": "Chétiflor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0070",
+        "ennom": "Weepinbell",
+        "frnom": "Boustiflor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0071",
+        "ennom": "Victreebel",
+        "frnom": "Empiflor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0072",
+        "ennom": "Tentacool",
+        "frnom": "Tentacool",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0073",
+        "ennom": "Tentacruel",
+        "frnom": "Tentacruel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0074",
+        "ennom": "Geodude",
+        "frnom": "Racaillou",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0075",
+        "ennom": "Graveler",
+        "frnom": "Gravalanch",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0076",
+        "ennom": "Golem",
+        "frnom": "Grolem",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0077",
+        "ennom": "Ponyta",
+        "frnom": "Ponyta",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0078",
+        "ennom": "Rapidash",
+        "frnom": "Galopa",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0079",
+        "ennom": "Slowpoke",
+        "frnom": "Ramoloss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0080",
+        "ennom": "Slowbro",
+        "frnom": "Flagadoss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0081",
+        "ennom": "Magnemite",
+        "frnom": "Magnéti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0082",
+        "ennom": "Magneton",
+        "frnom": "Magnéton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0083",
+        "ennom": "Farfetch'd",
+        "frnom": "Canarticho",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0084",
+        "ennom": "Doduo",
+        "frnom": "Doduo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0085",
+        "ennom": "Dodrio",
+        "frnom": "Dodrio",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0086",
+        "ennom": "Seel",
+        "frnom": "Otaria",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0087",
+        "ennom": "Dewgong",
+        "frnom": "Lamantine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0088",
+        "ennom": "Grimer",
+        "frnom": "Tadmorv",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0089",
+        "ennom": "Muk",
+        "frnom": "Grotadmorv",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0090",
+        "ennom": "Shellder",
+        "frnom": "Kokiyas",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0091",
+        "ennom": "Cloyster",
+        "frnom": "Crustabri",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0092",
+        "ennom": "Gastly",
+        "frnom": "Fantominus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0093",
+        "ennom": "Haunter",
+        "frnom": "Spectrum",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0094",
+        "ennom": "Gengar",
+        "frnom": "Ectoplasma",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0095",
+        "ennom": "Onix",
+        "frnom": "Onix",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0096",
+        "ennom": "Drowzee",
+        "frnom": "Soporifik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0097",
+        "ennom": "Hypno",
+        "frnom": "Hypnomade",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0098",
+        "ennom": "Krabby",
+        "frnom": "Krabby",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0099",
+        "ennom": "Kingler",
+        "frnom": "Krabboss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0100",
+        "ennom": "Voltorb",
+        "frnom": "Voltorbe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0101",
+        "ennom": "Electrode",
+        "frnom": "Électrode",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0102",
+        "ennom": "Exeggcute",
+        "frnom": "Noeunoeuf",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0103",
+        "ennom": "Exeggutor",
+        "frnom": "Noadkoko",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0104",
+        "ennom": "Cubone",
+        "frnom": "Osselait",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0105",
+        "ennom": "Marowak",
+        "frnom": "Ossatueur",
+        "forme1": "Kanto",
+        "forme2": "Alola",
+        "ligue": true
+    },
+    {
+        "dexnum": "0106",
+        "ennom": "Hitmonlee",
+        "frnom": "Kicklee",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0107",
+        "ennom": "Hitmonchan",
+        "frnom": "Tygnon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0108",
+        "ennom": "Lickitung",
+        "frnom": "Excelangue",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0109",
+        "ennom": "Koffing",
+        "frnom": "Smogo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0110",
+        "ennom": "Weezing",
+        "frnom": "Smogogo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0111",
+        "ennom": "Rhyhorn",
+        "frnom": "Rhinocorne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0112",
+        "ennom": "Rhydon",
+        "frnom": "Rhinoféros",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0113",
+        "ennom": "Chansey",
+        "frnom": "Leveinard",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0114",
+        "ennom": "Tangela",
+        "frnom": "Saquedeneu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0115",
+        "ennom": "Kangaskhan",
+        "frnom": "Kangourex",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0116",
+        "ennom": "Horsea",
+        "frnom": "Hypotrempe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0117",
+        "ennom": "Seadra",
+        "frnom": "Hypocéan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0118",
+        "ennom": "Goldeen",
+        "frnom": "Poissirène",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0119",
+        "ennom": "Seaking",
+        "frnom": "Poissoroy",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0120",
+        "ennom": "Staryu",
+        "frnom": "Stari",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0121",
+        "ennom": "Starmie",
+        "frnom": "Staross",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0122",
+        "ennom": "Mr. Mime",
+        "frnom": "M. Mime",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0123",
+        "ennom": "Scyther",
+        "frnom": "Insécateur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0124",
+        "ennom": "Jynx",
+        "frnom": "Lippoutou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0125",
+        "ennom": "Electabuzz",
+        "frnom": "Élektek",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0126",
+        "ennom": "Magmar",
+        "frnom": "Magmar",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0127",
+        "ennom": "Pinsir",
+        "frnom": "Scarabrute",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0128",
+        "ennom": "Tauros",
+        "frnom": "Tauros",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0129",
+        "ennom": "Magikarp",
+        "frnom": "Magicarpe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0130",
+        "ennom": "Gyarados",
+        "frnom": "Léviator",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0131",
+        "ennom": "Lapras",
+        "frnom": "Lokhlass",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0132",
+        "ennom": "Ditto",
+        "frnom": "Métamorph",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0133",
+        "ennom": "Eevee",
+        "frnom": "Évoli",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0134",
+        "ennom": "Vaporeon",
+        "frnom": "Aquali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0135",
+        "ennom": "Jolteon",
+        "frnom": "Voltali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0136",
+        "ennom": "Flareon",
+        "frnom": "Pyroli",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0137",
+        "ennom": "Porygon",
+        "frnom": "Porygon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0138",
+        "ennom": "Omanyte",
+        "frnom": "Amonita",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0139",
+        "ennom": "Omastar",
+        "frnom": "Amonistar",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0140",
+        "ennom": "Kabuto",
+        "frnom": "Kabuto",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0141",
+        "ennom": "Kabutops",
+        "frnom": "Kabutops",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0142",
+        "ennom": "Aerodactyl",
+        "frnom": "Ptéra",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0143",
+        "ennom": "Snorlax",
+        "frnom": "Ronflex",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0144",
+        "ennom": "Articuno",
+        "frnom": "Artikodin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0145",
+        "ennom": "Zapdos",
+        "frnom": "Électhor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0146",
+        "ennom": "Moltres",
+        "frnom": "Sulfura",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0147",
+        "ennom": "Dratini",
+        "frnom": "Minidraco",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0148",
+        "ennom": "Dragonair",
+        "frnom": "Draco",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0149",
+        "ennom": "Dragonite",
+        "frnom": "Dracolosse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0150",
+        "ennom": "Mewtwo",
+        "frnom": "Mewtwo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0151",
+        "ennom": "Mew",
+        "frnom": "Mew",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0152",
+        "ennom": "Chikorita",
+        "frnom": "Germignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0153",
+        "ennom": "Bayleef",
+        "frnom": "Macronium",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0154",
+        "ennom": "Meganium",
+        "frnom": "Méganium",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0155",
+        "ennom": "Cyndaquil",
+        "frnom": "Héricendre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0156",
+        "ennom": "Quilava",
+        "frnom": "Feurisson",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0157",
+        "ennom": "Typhlosion",
+        "frnom": "Typhlosion",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0158",
+        "ennom": "Totodile",
+        "frnom": "Kaiminus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0159",
+        "ennom": "Croconaw",
+        "frnom": "Crocrodil",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0160",
+        "ennom": "Feraligatr",
+        "frnom": "Aligatueur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0161",
+        "ennom": "Sentret",
+        "frnom": "Fouinette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0162",
+        "ennom": "Furret",
+        "frnom": "Fouinar",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0163",
+        "ennom": "Hoothoot",
+        "frnom": "Hoothoot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0164",
+        "ennom": "Noctowl",
+        "frnom": "Noarfang",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0165",
+        "ennom": "Ledyba",
+        "frnom": "Coxy",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0166",
+        "ennom": "Ledian",
+        "frnom": "Coxyclaque",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0167",
+        "ennom": "Spinarak",
+        "frnom": "Mimigal",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0168",
+        "ennom": "Ariados",
+        "frnom": "Migalos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0169",
+        "ennom": "Crobat",
+        "frnom": "Nostenfer",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0170",
+        "ennom": "Chinchou",
+        "frnom": "Loupio",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0171",
+        "ennom": "Lanturn",
+        "frnom": "Lanturn",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0172",
+        "ennom": "Pichu",
+        "frnom": "Pichu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0173",
+        "ennom": "Cleffa",
+        "frnom": "Mélo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0174",
+        "ennom": "Igglybuff",
+        "frnom": "Toudoudou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0175",
+        "ennom": "Togepi",
+        "frnom": "Togepi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0176",
+        "ennom": "Togetic",
+        "frnom": "Togetic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0177",
+        "ennom": "Natu",
+        "frnom": "Natu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0178",
+        "ennom": "Xatu",
+        "frnom": "Xatu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0179",
+        "ennom": "Mareep",
+        "frnom": "Wattouat",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0180",
+        "ennom": "Flaaffy",
+        "frnom": "Lainergie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0181",
+        "ennom": "Ampharos",
+        "frnom": "Pharamp",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0182",
+        "ennom": "Bellossom",
+        "frnom": "Joliflor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0183",
+        "ennom": "Marill",
+        "frnom": "Marill",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0184",
+        "ennom": "Azumarill",
+        "frnom": "Azumarill",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0185",
+        "ennom": "Sudowoodo",
+        "frnom": "Simularbre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0186",
+        "ennom": "Politoed",
+        "frnom": "Tarpaud",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0187",
+        "ennom": "Hoppip",
+        "frnom": "Granivol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0188",
+        "ennom": "Skiploom",
+        "frnom": "Floravol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0189",
+        "ennom": "Jumpluff",
+        "frnom": "Cotovol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0190",
+        "ennom": "Aipom",
+        "frnom": "Capumain",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0191",
+        "ennom": "Sunkern",
+        "frnom": "Tournegrin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0192",
+        "ennom": "Sunflora",
+        "frnom": "Héliatronc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0193",
+        "ennom": "Yanma",
+        "frnom": "Yanma",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0194",
+        "ennom": "Wooper",
+        "frnom": "Axoloto",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0195",
+        "ennom": "Quagsire",
+        "frnom": "Maraiste",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0196",
+        "ennom": "Espeon",
+        "frnom": "Mentali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0197",
+        "ennom": "Umbreon",
+        "frnom": "Noctali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0198",
+        "ennom": "Murkrow",
+        "frnom": "Cornèbre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0199",
+        "ennom": "Slowking",
+        "frnom": "Roigada",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0200",
+        "ennom": "Misdreavus",
+        "frnom": "Feuforêve",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0201",
+        "ennom": "Unown",
+        "frnom": "Zarbi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0202",
+        "ennom": "Wobbuffet",
+        "frnom": "Qulbutoké",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0203",
+        "ennom": "Girafarig",
+        "frnom": "Girafarig",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0204",
+        "ennom": "Pineco",
+        "frnom": "Pomdepik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0205",
+        "ennom": "Forretress",
+        "frnom": "Foretress",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0206",
+        "ennom": "Dunsparce",
+        "frnom": "Insolourdo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0207",
+        "ennom": "Gligar",
+        "frnom": "Scorplane",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0208",
+        "ennom": "Steelix",
+        "frnom": "Steelix",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0209",
+        "ennom": "Snubbull",
+        "frnom": "Snubbull",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0210",
+        "ennom": "Granbull",
+        "frnom": "Granbull",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0211",
+        "ennom": "Qwilfish",
+        "frnom": "Qwilfish",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0212",
+        "ennom": "Scizor",
+        "frnom": "Cizayox",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0213",
+        "ennom": "Shuckle",
+        "frnom": "Caratroc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0214",
+        "ennom": "Heracross",
+        "frnom": "Scarhino",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0215",
+        "ennom": "Sneasel",
+        "frnom": "Farfuret",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0216",
+        "ennom": "Teddiursa",
+        "frnom": "Teddiursa",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0217",
+        "ennom": "Ursaring",
+        "frnom": "Ursaring",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0218",
+        "ennom": "Slugma",
+        "frnom": "Limagma",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0219",
+        "ennom": "Magcargo",
+        "frnom": "Volcaropod",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0220",
+        "ennom": "Swinub",
+        "frnom": "Marcacrin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0221",
+        "ennom": "Piloswine",
+        "frnom": "Cochignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0222",
+        "ennom": "Corsola",
+        "frnom": "Corayon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0223",
+        "ennom": "Remoraid",
+        "frnom": "Rémoraid",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0224",
+        "ennom": "Octillery",
+        "frnom": "Octillery",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0225",
+        "ennom": "Delibird",
+        "frnom": "Cadoizo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0226",
+        "ennom": "Mantine",
+        "frnom": "Démanta",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0227",
+        "ennom": "Skarmory",
+        "frnom": "Airmure",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0228",
+        "ennom": "Houndour",
+        "frnom": "Malosse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0229",
+        "ennom": "Houndoom",
+        "frnom": "Démolosse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0230",
+        "ennom": "Kingdra",
+        "frnom": "Hyporoi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0231",
+        "ennom": "Phanpy",
+        "frnom": "Phanpy",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0232",
+        "ennom": "Donphan",
+        "frnom": "Donphan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0233",
+        "ennom": "Porygon2",
+        "frnom": "Porygon2",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0234",
+        "ennom": "Stantler",
+        "frnom": "Cerfrousse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0235",
+        "ennom": "Smeargle",
+        "frnom": "Queulorior",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0236",
+        "ennom": "Tyrogue",
+        "frnom": "Debugant",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0237",
+        "ennom": "Hitmontop",
+        "frnom": "Kapoera",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0238",
+        "ennom": "Smoochum",
+        "frnom": "Lippouti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0239",
+        "ennom": "Elekid",
+        "frnom": "Élekid",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0240",
+        "ennom": "Magby",
+        "frnom": "Magby",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0241",
+        "ennom": "Miltank",
+        "frnom": "Écrémeuh",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0242",
+        "ennom": "Blissey",
+        "frnom": "Leuphorie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0243",
+        "ennom": "Raikou",
+        "frnom": "Raikou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0244",
+        "ennom": "Entei",
+        "frnom": "Entei",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0245",
+        "ennom": "Suicune",
+        "frnom": "Suicune",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0246",
+        "ennom": "Larvitar",
+        "frnom": "Embrylex",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0247",
+        "ennom": "Pupitar",
+        "frnom": "Ymphect",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0248",
+        "ennom": "Tyranitar",
+        "frnom": "Tyranocif",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0249",
+        "ennom": "Lugia",
+        "frnom": "Lugia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0250",
+        "ennom": "Ho-Oh",
+        "frnom": "Ho-Oh",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0251",
+        "ennom": "Celebi",
+        "frnom": "Celebi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0252",
+        "ennom": "Treecko",
+        "frnom": "Arcko",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0253",
+        "ennom": "Grovyle",
+        "frnom": "Massko",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0254",
+        "ennom": "Sceptile",
+        "frnom": "Jungko",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0255",
+        "ennom": "Torchic",
+        "frnom": "Poussifeu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0256",
+        "ennom": "Combusken",
+        "frnom": "Galifeu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0257",
+        "ennom": "Blaziken",
+        "frnom": "Braségali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0258",
+        "ennom": "Mudkip",
+        "frnom": "Gobou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0259",
+        "ennom": "Marshtomp",
+        "frnom": "Flobio",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0260",
+        "ennom": "Swampert",
+        "frnom": "Laggron",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0261",
+        "ennom": "Poochyena",
+        "frnom": "Medhyèna",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0262",
+        "ennom": "Mightyena",
+        "frnom": "Grahyèna",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0263",
+        "ennom": "Zigzagoon",
+        "frnom": "Zigzaton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0264",
+        "ennom": "Linoone",
+        "frnom": "Linéon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0265",
+        "ennom": "Wurmple",
+        "frnom": "Chenipotte",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0266",
+        "ennom": "Silcoon",
+        "frnom": "Armulys",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0267",
+        "ennom": "Beautifly",
+        "frnom": "Charmillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0268",
+        "ennom": "Cascoon",
+        "frnom": "Blindalys",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0269",
+        "ennom": "Dustox",
+        "frnom": "Papinox",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0270",
+        "ennom": "Lotad",
+        "frnom": "Nénupiot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0271",
+        "ennom": "Lombre",
+        "frnom": "Lombre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0272",
+        "ennom": "Ludicolo",
+        "frnom": "Ludicolo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0273",
+        "ennom": "Seedot",
+        "frnom": "Grainipiot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0274",
+        "ennom": "Nuzleaf",
+        "frnom": "Pifeuil",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0275",
+        "ennom": "Shiftry",
+        "frnom": "Tengalice",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0276",
+        "ennom": "Taillow",
+        "frnom": "Nirondelle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0277",
+        "ennom": "Swellow",
+        "frnom": "Hélédelle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0278",
+        "ennom": "Wingull",
+        "frnom": "Goélise",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0279",
+        "ennom": "Pelipper",
+        "frnom": "Bekipan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0280",
+        "ennom": "Ralts",
+        "frnom": "Tarsal",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0281",
+        "ennom": "Kirlia",
+        "frnom": "Kirlia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0282",
+        "ennom": "Gardevoir",
+        "frnom": "Gardevoir",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0283",
+        "ennom": "Surskit",
+        "frnom": "Arakdo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0284",
+        "ennom": "Masquerain",
+        "frnom": "Maskadra",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0285",
+        "ennom": "Shroomish",
+        "frnom": "Balignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0286",
+        "ennom": "Breloom",
+        "frnom": "Chapignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0287",
+        "ennom": "Slakoth",
+        "frnom": "Parecool",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0288",
+        "ennom": "Vigoroth",
+        "frnom": "Vigoroth",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0289",
+        "ennom": "Slaking",
+        "frnom": "Monaflèmit",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0290",
+        "ennom": "Nincada",
+        "frnom": "Ningale",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0291",
+        "ennom": "Ninjask",
+        "frnom": "Ninjask",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0292",
+        "ennom": "Shedinja",
+        "frnom": "Munja",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0293",
+        "ennom": "Whismur",
+        "frnom": "Chuchmur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0294",
+        "ennom": "Loudred",
+        "frnom": "Ramboum",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0295",
+        "ennom": "Exploud",
+        "frnom": "Brouhabam",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0296",
+        "ennom": "Makuhita",
+        "frnom": "Makuhita",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0297",
+        "ennom": "Hariyama",
+        "frnom": "Hariyama",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0298",
+        "ennom": "Azurill",
+        "frnom": "Azurill",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0299",
+        "ennom": "Nosepass",
+        "frnom": "Tarinor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0300",
+        "ennom": "Skitty",
+        "frnom": "Skitty",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0301",
+        "ennom": "Delcatty",
+        "frnom": "Delcatty",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0302",
+        "ennom": "Sableye",
+        "frnom": "Ténéfix",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0303",
+        "ennom": "Mawile",
+        "frnom": "Mysdibule",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0304",
+        "ennom": "Aron",
+        "frnom": "Galekid",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0305",
+        "ennom": "Lairon",
+        "frnom": "Galegon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0306",
+        "ennom": "Aggron",
+        "frnom": "Galeking",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0307",
+        "ennom": "Meditite",
+        "frnom": "Méditikka",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0308",
+        "ennom": "Medicham",
+        "frnom": "Charmina",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0309",
+        "ennom": "Electrike",
+        "frnom": "Dynavolt",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0310",
+        "ennom": "Manectric",
+        "frnom": "Élecsprint",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0311",
+        "ennom": "Plusle",
+        "frnom": "Posipi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0312",
+        "ennom": "Minun",
+        "frnom": "Négapi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0313",
+        "ennom": "Volbeat",
+        "frnom": "Muciole",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0314",
+        "ennom": "Illumise",
+        "frnom": "Lumivole",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0315",
+        "ennom": "Roselia",
+        "frnom": "Rosélia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0316",
+        "ennom": "Gulpin",
+        "frnom": "Gloupti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0317",
+        "ennom": "Swalot",
+        "frnom": "Avaltout",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0318",
+        "ennom": "Carvanha",
+        "frnom": "Carvanha",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0319",
+        "ennom": "Sharpedo",
+        "frnom": "Sharpedo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0320",
+        "ennom": "Wailmer",
+        "frnom": "Wailmer",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0321",
+        "ennom": "Wailord",
+        "frnom": "Wailord",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0322",
+        "ennom": "Numel",
+        "frnom": "Chamallot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0323",
+        "ennom": "Camerupt",
+        "frnom": "Camérupt",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0324",
+        "ennom": "Torkoal",
+        "frnom": "Chartor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0325",
+        "ennom": "Spoink",
+        "frnom": "Spoink",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0326",
+        "ennom": "Grumpig",
+        "frnom": "Groret",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0327",
+        "ennom": "Spinda",
+        "frnom": "Spinda",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0328",
+        "ennom": "Trapinch",
+        "frnom": "Kraknoix",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0329",
+        "ennom": "Vibrava",
+        "frnom": "Vibraninf",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0330",
+        "ennom": "Flygon",
+        "frnom": "Libégon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0331",
+        "ennom": "Cacnea",
+        "frnom": "Cacnea",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0332",
+        "ennom": "Cacturne",
+        "frnom": "Cacturne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0333",
+        "ennom": "Swablu",
+        "frnom": "Tylton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0334",
+        "ennom": "Altaria",
+        "frnom": "Altaria",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0335",
+        "ennom": "Zangoose",
+        "frnom": "Mangriff",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0336",
+        "ennom": "Seviper",
+        "frnom": "Séviper",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0337",
+        "ennom": "Lunatone",
+        "frnom": "Séléroc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0338",
+        "ennom": "Solrock",
+        "frnom": "Solaroc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0339",
+        "ennom": "Barboach",
+        "frnom": "Barloche",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0340",
+        "ennom": "Whiscash",
+        "frnom": "Barbicha",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0341",
+        "ennom": "Corphish",
+        "frnom": "Écrapince",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0342",
+        "ennom": "Crawdaunt",
+        "frnom": "Colhomard",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0343",
+        "ennom": "Baltoy",
+        "frnom": "Balbuto",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0344",
+        "ennom": "Claydol",
+        "frnom": "Kaorine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0345",
+        "ennom": "Lileep",
+        "frnom": "Lilia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0346",
+        "ennom": "Cradily",
+        "frnom": "Vacilys",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0347",
+        "ennom": "Anorith",
+        "frnom": "Anorith",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0348",
+        "ennom": "Armaldo",
+        "frnom": "Armaldo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0349",
+        "ennom": "Feebas",
+        "frnom": "Barpau",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0350",
+        "ennom": "Milotic",
+        "frnom": "Milobellus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0351",
+        "ennom": "Castform",
+        "frnom": "Morphéo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0352",
+        "ennom": "Kecleon",
+        "frnom": "Kecleon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0353",
+        "ennom": "Shuppet",
+        "frnom": "Polichombr",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0354",
+        "ennom": "Banette",
+        "frnom": "Branette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0355",
+        "ennom": "Duskull",
+        "frnom": "Skelénox",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0356",
+        "ennom": "Dusclops",
+        "frnom": "Téraclope",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0357",
+        "ennom": "Tropius",
+        "frnom": "Tropius",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0358",
+        "ennom": "Chimecho",
+        "frnom": "Éoko",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0359",
+        "ennom": "Absol",
+        "frnom": "Absol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0360",
+        "ennom": "Wynaut",
+        "frnom": "Okéoké",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0361",
+        "ennom": "Snorunt",
+        "frnom": "Stalgamin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0362",
+        "ennom": "Glalie",
+        "frnom": "Oniglali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0363",
+        "ennom": "Spheal",
+        "frnom": "Obalie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0364",
+        "ennom": "Sealeo",
+        "frnom": "Phogleur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0365",
+        "ennom": "Walrein",
+        "frnom": "Kaimorse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0366",
+        "ennom": "Clamperl",
+        "frnom": "Coquiperl",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0367",
+        "ennom": "Huntail",
+        "frnom": "Serpang",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0368",
+        "ennom": "Gorebyss",
+        "frnom": "Rosabyss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0369",
+        "ennom": "Relicanth",
+        "frnom": "Relicanth",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0370",
+        "ennom": "Luvdisc",
+        "frnom": "Lovdisc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0371",
+        "ennom": "Bagon",
+        "frnom": "Draby",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0372",
+        "ennom": "Shelgon",
+        "frnom": "Drackhaus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0373",
+        "ennom": "Salamence",
+        "frnom": "Drattak",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0374",
+        "ennom": "Beldum",
+        "frnom": "Terhal",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0375",
+        "ennom": "Metang",
+        "frnom": "Métang",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0376",
+        "ennom": "Metagross",
+        "frnom": "Métalosse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0377",
+        "ennom": "Regirock",
+        "frnom": "Regirock",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0378",
+        "ennom": "Regice",
+        "frnom": "Regice",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0379",
+        "ennom": "Registeel",
+        "frnom": "Registeel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0380",
+        "ennom": "Latias",
+        "frnom": "Latias",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0381",
+        "ennom": "Latios",
+        "frnom": "Latios",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0382",
+        "ennom": "Kyogre",
+        "frnom": "Kyogre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0383",
+        "ennom": "Groudon",
+        "frnom": "Groudon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0384",
+        "ennom": "Rayquaza",
+        "frnom": "Rayquaza",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0385",
+        "ennom": "Jirachi",
+        "frnom": "Jirachi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0386",
+        "ennom": "Deoxys",
+        "frnom": "Deoxys",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0387",
+        "ennom": "Turtwig",
+        "frnom": "Tortipouss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0388",
+        "ennom": "Grotle",
+        "frnom": "Boskara",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0389",
+        "ennom": "Torterra",
+        "frnom": "Torterra",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0390",
+        "ennom": "Chimchar",
+        "frnom": "Ouisticram",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0391",
+        "ennom": "Monferno",
+        "frnom": "Chimpenfeu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0392",
+        "ennom": "Infernape",
+        "frnom": "Simiabraz",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0393",
+        "ennom": "Piplup",
+        "frnom": "Tiplouf",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0394",
+        "ennom": "Prinplup",
+        "frnom": "Prinplouf",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0395",
+        "ennom": "Empoleon",
+        "frnom": "Pingoléon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0396",
+        "ennom": "Starly",
+        "frnom": "Étourmi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0397",
+        "ennom": "Staravia",
+        "frnom": "Étourvol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0398",
+        "ennom": "Staraptor",
+        "frnom": "Étouraptor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0399",
+        "ennom": "Bidoof",
+        "frnom": "Keunotor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0400",
+        "ennom": "Bibarel",
+        "frnom": "Castorno",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0401",
+        "ennom": "Kricketot",
+        "frnom": "Crikzik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0402",
+        "ennom": "Kricketune",
+        "frnom": "Mélokrik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0403",
+        "ennom": "Shinx",
+        "frnom": "Lixy",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0404",
+        "ennom": "Luxio",
+        "frnom": "Luxio",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0405",
+        "ennom": "Luxray",
+        "frnom": "Luxray",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0406",
+        "ennom": "Budew",
+        "frnom": "Rozbouton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0407",
+        "ennom": "Roserade",
+        "frnom": "Roserade",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0408",
+        "ennom": "Cranidos",
+        "frnom": "Kranidos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0409",
+        "ennom": "Rampardos",
+        "frnom": "Charkos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0410",
+        "ennom": "Shieldon",
+        "frnom": "Dinoclier",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0411",
+        "ennom": "Bastiodon",
+        "frnom": "Bastiodon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0412",
+        "ennom": "Burmy",
+        "frnom": "Cheniti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0413",
+        "ennom": "Wormadam",
+        "frnom": "Cheniselle",
+        "forme1": "Cape Plante",
+        "forme2": "Cape Déchet",
+        "forme3": "Cape Sable",
+        "ligue": true
+    },
+    {
+        "dexnum": "0414",
+        "ennom": "Mothim",
+        "frnom": "Papilord",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0415",
+        "ennom": "Combee",
+        "frnom": "Apitrini",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0416",
+        "ennom": "Vespiquen",
+        "frnom": "Apireine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0417",
+        "ennom": "Pachirisu",
+        "frnom": "Pachirisu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0418",
+        "ennom": "Buizel",
+        "frnom": "Mustébouée",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0419",
+        "ennom": "Floatzel",
+        "frnom": "Mustéflott",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0420",
+        "ennom": "Cherubi",
+        "frnom": "Ceribou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0421",
+        "ennom": "Cherrim",
+        "frnom": "Ceriflor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0422",
+        "ennom": "Shellos",
+        "frnom": "Sancoki",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0423",
+        "ennom": "Gastrodon",
+        "frnom": "Tritosor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0424",
+        "ennom": "Ambipom",
+        "frnom": "Capidextre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0425",
+        "ennom": "Drifloon",
+        "frnom": "Baudrive",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0426",
+        "ennom": "Drifblim",
+        "frnom": "Grodrive",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0427",
+        "ennom": "Buneary",
+        "frnom": "Laporeille",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0428",
+        "ennom": "Lopunny",
+        "frnom": "Lockpin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0429",
+        "ennom": "Mismagius",
+        "frnom": "Magirêve",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0430",
+        "ennom": "Honchkrow",
+        "frnom": "Corboss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0431",
+        "ennom": "Glameow",
+        "frnom": "Chaglam",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0432",
+        "ennom": "Purugly",
+        "frnom": "Chaffreux",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0433",
+        "ennom": "Chingling",
+        "frnom": "Korillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0434",
+        "ennom": "Stunky",
+        "frnom": "Moufouette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0435",
+        "ennom": "Skuntank",
+        "frnom": "Moufflair",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0436",
+        "ennom": "Bronzor",
+        "frnom": "Archéomire",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0437",
+        "ennom": "Bronzong",
+        "frnom": "Archéodong",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0438",
+        "ennom": "Bonsly",
+        "frnom": "Manzaï",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0439",
+        "ennom": "Mime Jr.",
+        "frnom": "Mime Jr.",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0440",
+        "ennom": "Happiny",
+        "frnom": "Ptiravi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0441",
+        "ennom": "Chatot",
+        "frnom": "Pijako",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0442",
+        "ennom": "Spiritomb",
+        "frnom": "Spiritomb",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0443",
+        "ennom": "Gible",
+        "frnom": "Griknot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0444",
+        "ennom": "Gabite",
+        "frnom": "Carmache",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0445",
+        "ennom": "Garchomp",
+        "frnom": "Carchacrok",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0446",
+        "ennom": "Munchlax",
+        "frnom": "Goinfrex",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0447",
+        "ennom": "Riolu",
+        "frnom": "Riolu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0448",
+        "ennom": "Lucario",
+        "frnom": "Lucario",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0449",
+        "ennom": "Hippopotas",
+        "frnom": "Hippopotas",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0450",
+        "ennom": "Hippowdon",
+        "frnom": "Hippodocus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0451",
+        "ennom": "Skorupi",
+        "frnom": "Rapion",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0452",
+        "ennom": "Drapion",
+        "frnom": "Drascore",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0453",
+        "ennom": "Croagunk",
+        "frnom": "Cradopaud",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0454",
+        "ennom": "Toxicroak",
+        "frnom": "Coatox",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0455",
+        "ennom": "Carnivine",
+        "frnom": "Vortente",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0456",
+        "ennom": "Finneon",
+        "frnom": "Écayon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0457",
+        "ennom": "Lumineon",
+        "frnom": "Luminéon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0458",
+        "ennom": "Mantyke",
+        "frnom": "Babimanta",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0459",
+        "ennom": "Snover",
+        "frnom": "Blizzi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0460",
+        "ennom": "Abomasnow",
+        "frnom": "Blizzaroi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0461",
+        "ennom": "Weavile",
+        "frnom": "Dimoret",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0462",
+        "ennom": "Magnezone",
+        "frnom": "Magnézone",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0463",
+        "ennom": "Lickilicky",
+        "frnom": "Coudlangue",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0464",
+        "ennom": "Rhyperior",
+        "frnom": "Rhinastoc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0465",
+        "ennom": "Tangrowth",
+        "frnom": "Bouldeneu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0466",
+        "ennom": "Electivire",
+        "frnom": "Élekable",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0467",
+        "ennom": "Magmortar",
+        "frnom": "Maganon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0468",
+        "ennom": "Togekiss",
+        "frnom": "Togekiss",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0469",
+        "ennom": "Yanmega",
+        "frnom": "Yanméga",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0470",
+        "ennom": "Leafeon",
+        "frnom": "Phyllali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0471",
+        "ennom": "Glaceon",
+        "frnom": "Givrali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0472",
+        "ennom": "Gliscor",
+        "frnom": "Scorvol",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0473",
+        "ennom": "Mamoswine",
+        "frnom": "Mammochon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0474",
+        "ennom": "Porygon-Z",
+        "frnom": "Porygon-Z",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0475",
+        "ennom": "Gallade",
+        "frnom": "Gallame",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0476",
+        "ennom": "Probopass",
+        "frnom": "Tarinorme",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0477",
+        "ennom": "Dusknoir",
+        "frnom": "Noctunoir",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0478",
+        "ennom": "Froslass",
+        "frnom": "Momartik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0479",
+        "ennom": "Rotom",
+        "frnom": "Motisma",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0480",
+        "ennom": "Uxie",
+        "frnom": "Créhelf",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0481",
+        "ennom": "Mesprit",
+        "frnom": "Créfollet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0482",
+        "ennom": "Azelf",
+        "frnom": "Créfadet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0483",
+        "ennom": "Dialga",
+        "frnom": "Dialga",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0484",
+        "ennom": "Palkia",
+        "frnom": "Palkia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0485",
+        "ennom": "Heatran",
+        "frnom": "Heatran",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0486",
+        "ennom": "Regigigas",
+        "frnom": "Regigigas",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0487",
+        "ennom": "Giratina",
+        "frnom": "Giratina",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0488",
+        "ennom": "Cresselia",
+        "frnom": "Cresselia",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0489",
+        "ennom": "Phione",
+        "frnom": "Phione",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0490",
+        "ennom": "Manaphy",
+        "frnom": "Manaphy",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0491",
+        "ennom": "Darkrai",
+        "frnom": "Darkrai",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0492",
+        "ennom": "Shaymin",
+        "frnom": "Shaymin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0493",
+        "ennom": "Arceus",
+        "frnom": "Arceus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0494",
+        "ennom": "Victini",
+        "frnom": "Victini",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0495",
+        "ennom": "Snivy",
+        "frnom": "Vipélierre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0496",
+        "ennom": "Servine",
+        "frnom": "Lianaja",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0497",
+        "ennom": "Serperior",
+        "frnom": "Majaspic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0498",
+        "ennom": "Tepig",
+        "frnom": "Gruikui",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0499",
+        "ennom": "Pignite",
+        "frnom": "Grotichon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0500",
+        "ennom": "Emboar",
+        "frnom": "Roitiflam",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0501",
+        "ennom": "Oshawott",
+        "frnom": "Moustillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0502",
+        "ennom": "Dewott",
+        "frnom": "Mateloutre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0503",
+        "ennom": "Samurott",
+        "frnom": "Clamiral",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0504",
+        "ennom": "Patrat",
+        "frnom": "Ratentif",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0505",
+        "ennom": "Watchog",
+        "frnom": "Miradar",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0506",
+        "ennom": "Lillipup",
+        "frnom": "Ponchiot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0507",
+        "ennom": "Herdier",
+        "frnom": "Ponchien",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0508",
+        "ennom": "Stoutland",
+        "frnom": "Mastouffe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0509",
+        "ennom": "Purrloin",
+        "frnom": "Chacripan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0510",
+        "ennom": "Liepard",
+        "frnom": "Léopardus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0511",
+        "ennom": "Pansage",
+        "frnom": "Feuillajou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0512",
+        "ennom": "Simisage",
+        "frnom": "Feuiloutan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0513",
+        "ennom": "Pansear",
+        "frnom": "Flamajou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0514",
+        "ennom": "Simisear",
+        "frnom": "Flamoutan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0515",
+        "ennom": "Panpour",
+        "frnom": "Flotajou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0516",
+        "ennom": "Simipour",
+        "frnom": "Flotoutan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0517",
+        "ennom": "Munna",
+        "frnom": "Munna",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0518",
+        "ennom": "Musharna",
+        "frnom": "Mushana",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0519",
+        "ennom": "Pidove",
+        "frnom": "Poichigeon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0520",
+        "ennom": "Tranquill",
+        "frnom": "Colombeau",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0521",
+        "ennom": "Unfezant",
+        "frnom": "Déflaisan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0522",
+        "ennom": "Blitzle",
+        "frnom": "Zébibron",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0523",
+        "ennom": "Zebstrika",
+        "frnom": "Zéblitz",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0524",
+        "ennom": "Roggenrola",
+        "frnom": "Nodulithe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0525",
+        "ennom": "Boldore",
+        "frnom": "Géolithe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0526",
+        "ennom": "Gigalith",
+        "frnom": "Gigalithe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0527",
+        "ennom": "Woobat",
+        "frnom": "Chovsourir",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0528",
+        "ennom": "Swoobat",
+        "frnom": "Rhinolove",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0529",
+        "ennom": "Drilbur",
+        "frnom": "Rototaupe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0530",
+        "ennom": "Excadrill",
+        "frnom": "Minotaupe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0531",
+        "ennom": "Audino",
+        "frnom": "Nanméouïe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0532",
+        "ennom": "Timburr",
+        "frnom": "Charpenti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0533",
+        "ennom": "Gurdurr",
+        "frnom": "Ouvrifier",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0534",
+        "ennom": "Conkeldurr",
+        "frnom": "Bétochef",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0535",
+        "ennom": "Tympole",
+        "frnom": "Tritonde",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0536",
+        "ennom": "Palpitoad",
+        "frnom": "Batracné",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0537",
+        "ennom": "Seismitoad",
+        "frnom": "Crapustule",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0538",
+        "ennom": "Throh",
+        "frnom": "Judokrak",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0539",
+        "ennom": "Sawk",
+        "frnom": "Karaclée",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0540",
+        "ennom": "Sewaddle",
+        "frnom": "Larveyette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0541",
+        "ennom": "Swadloon",
+        "frnom": "Couverdure",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0542",
+        "ennom": "Leavanny",
+        "frnom": "Manternel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0543",
+        "ennom": "Venipede",
+        "frnom": "Venipatte",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0544",
+        "ennom": "Whirlipede",
+        "frnom": "Scobolide",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0545",
+        "ennom": "Scolipede",
+        "frnom": "Brutapode",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0546",
+        "ennom": "Cottonee",
+        "frnom": "Doudouvet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0547",
+        "ennom": "Whimsicott",
+        "frnom": "Farfaduvet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0548",
+        "ennom": "Petilil",
+        "frnom": "Chlorobule",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0549",
+        "ennom": "Lilligant",
+        "frnom": "Fragilady",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0550",
+        "ennom": "Basculin",
+        "frnom": "Bargantua",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0551",
+        "ennom": "Sandile",
+        "frnom": "Mascaïman",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0552",
+        "ennom": "Krokorok",
+        "frnom": "Escroco",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0553",
+        "ennom": "Krookodile",
+        "frnom": "Crocorible",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0554",
+        "ennom": "Darumaka",
+        "frnom": "Darumarond",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0555",
+        "ennom": "Darmanitan",
+        "frnom": "Darumacho",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0556",
+        "ennom": "Maractus",
+        "frnom": "Maracachi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0557",
+        "ennom": "Dwebble",
+        "frnom": "Crabicoque",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0558",
+        "ennom": "Crustle",
+        "frnom": "Crabaraque",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0559",
+        "ennom": "Scraggy",
+        "frnom": "Baggiguane",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0560",
+        "ennom": "Scrafty",
+        "frnom": "Baggaïd",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0561",
+        "ennom": "Sigilyph",
+        "frnom": "Cryptéro",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0562",
+        "ennom": "Yamask",
+        "frnom": "Tutafeh",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0563",
+        "ennom": "Cofagrigus",
+        "frnom": "Tutankafer",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0564",
+        "ennom": "Tirtouga",
+        "frnom": "Carapagos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0565",
+        "ennom": "Carracosta",
+        "frnom": "Mégapagos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0566",
+        "ennom": "Archen",
+        "frnom": "Arkéapti",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0567",
+        "ennom": "Archeops",
+        "frnom": "Aéroptéryx",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0568",
+        "ennom": "Trubbish",
+        "frnom": "Miamiasme",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0569",
+        "ennom": "Garbodor",
+        "frnom": "Miasmax",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0570",
+        "ennom": "Zorua",
+        "frnom": "Zorua",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0571",
+        "ennom": "Zoroark",
+        "frnom": "Zoroark",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0572",
+        "ennom": "Minccino",
+        "frnom": "Chinchidou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0573",
+        "ennom": "Cinccino",
+        "frnom": "Pashmilla",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0574",
+        "ennom": "Gothita",
+        "frnom": "Scrutella",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0575",
+        "ennom": "Gothorita",
+        "frnom": "Mesmérella",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0576",
+        "ennom": "Gothitelle",
+        "frnom": "Sidérella",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0577",
+        "ennom": "Solosis",
+        "frnom": "Nucléos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0578",
+        "ennom": "Duosion",
+        "frnom": "Méios",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0579",
+        "ennom": "Reuniclus",
+        "frnom": "Symbios",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0580",
+        "ennom": "Ducklett",
+        "frnom": "Couaneton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0581",
+        "ennom": "Swanna",
+        "frnom": "Lakmécygne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0582",
+        "ennom": "Vanillite",
+        "frnom": "Sorbébé",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0583",
+        "ennom": "Vanillish",
+        "frnom": "Sorboul",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0584",
+        "ennom": "Vanilluxe",
+        "frnom": "Sorbouboul",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0585",
+        "ennom": "Deerling",
+        "frnom": "Vivaldaim",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0586",
+        "ennom": "Sawsbuck",
+        "frnom": "Haydaim",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0587",
+        "ennom": "Emolga",
+        "frnom": "Emolga",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0588",
+        "ennom": "Karrablast",
+        "frnom": "Carabing",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0589",
+        "ennom": "Escavalier",
+        "frnom": "Lançargot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0590",
+        "ennom": "Foongus",
+        "frnom": "Trompignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0591",
+        "ennom": "Amoonguss",
+        "frnom": "Gaulet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0592",
+        "ennom": "Frillish",
+        "frnom": "Viskuse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0593",
+        "ennom": "Jellicent",
+        "frnom": "Moyade",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0594",
+        "ennom": "Alomomola",
+        "frnom": "Mamanbo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0595",
+        "ennom": "Joltik",
+        "frnom": "Statitik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0596",
+        "ennom": "Galvantula",
+        "frnom": "Mygavolt",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0597",
+        "ennom": "Ferroseed",
+        "frnom": "Grindur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0598",
+        "ennom": "Ferrothorn",
+        "frnom": "Noacier",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0599",
+        "ennom": "Klink",
+        "frnom": "Tic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0600",
+        "ennom": "Klang",
+        "frnom": "Clic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0601",
+        "ennom": "Klinklang",
+        "frnom": "Cliticlic",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0602",
+        "ennom": "Tynamo",
+        "frnom": "Anchwatt",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0603",
+        "ennom": "Eelektrik",
+        "frnom": "Lampéroie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0604",
+        "ennom": "Eelektross",
+        "frnom": "Ohmassacre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0605",
+        "ennom": "Elgyem",
+        "frnom": "Lewsor",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0606",
+        "ennom": "Beheeyem",
+        "frnom": "Neitram",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0607",
+        "ennom": "Litwick",
+        "frnom": "Funécire",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0608",
+        "ennom": "Lampent",
+        "frnom": "Mélancolux",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0609",
+        "ennom": "Chandelure",
+        "frnom": "Lugulabre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0610",
+        "ennom": "Axew",
+        "frnom": "Coupenotte",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0611",
+        "ennom": "Fraxure",
+        "frnom": "Incisache",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0612",
+        "ennom": "Haxorus",
+        "frnom": "Tranchodon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0613",
+        "ennom": "Cubchoo",
+        "frnom": "Polarhume",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0614",
+        "ennom": "Beartic",
+        "frnom": "Polagriffe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0615",
+        "ennom": "Cryogonal",
+        "frnom": "Hexagel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0616",
+        "ennom": "Shelmet",
+        "frnom": "Escargaume",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0617",
+        "ennom": "Accelgor",
+        "frnom": "Limaspeed",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0618",
+        "ennom": "Stunfisk",
+        "frnom": "Limonde",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0619",
+        "ennom": "Mienfoo",
+        "frnom": "Kungfouine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0620",
+        "ennom": "Mienshao",
+        "frnom": "Shaofouine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0621",
+        "ennom": "Druddigon",
+        "frnom": "Drakkarmin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0622",
+        "ennom": "Golett",
+        "frnom": "Gringolem",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0623",
+        "ennom": "Golurk",
+        "frnom": "Golemastoc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0624",
+        "ennom": "Pawniard",
+        "frnom": "Scalpion",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0625",
+        "ennom": "Bisharp",
+        "frnom": "Scalproie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0626",
+        "ennom": "Bouffalant",
+        "frnom": "Frison",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0627",
+        "ennom": "Rufflet",
+        "frnom": "Furaiglon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0628",
+        "ennom": "Braviary",
+        "frnom": "Gueriaigle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0629",
+        "ennom": "Vullaby",
+        "frnom": "Vostourno",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0630",
+        "ennom": "Mandibuzz",
+        "frnom": "Vaututrice",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0631",
+        "ennom": "Heatmor",
+        "frnom": "Aflamanoir",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0632",
+        "ennom": "Durant",
+        "frnom": "Fermite",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0633",
+        "ennom": "Deino",
+        "frnom": "Solochi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0634",
+        "ennom": "Zweilous",
+        "frnom": "Diamat",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0635",
+        "ennom": "Hydreigon",
+        "frnom": "Trioxhydre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0636",
+        "ennom": "Larvesta",
+        "frnom": "Pyronille",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0637",
+        "ennom": "Volcarona",
+        "frnom": "Pyrax",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0638",
+        "ennom": "Cobalion",
+        "frnom": "Cobaltium",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0639",
+        "ennom": "Terrakion",
+        "frnom": "Terrakium",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0640",
+        "ennom": "Virizion",
+        "frnom": "Viridium",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0641",
+        "ennom": "Tornadus",
+        "frnom": "Boréas",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0642",
+        "ennom": "Thundurus",
+        "frnom": "Fulguris",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0643",
+        "ennom": "Reshiram",
+        "frnom": "Reshiram",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0644",
+        "ennom": "Zekrom",
+        "frnom": "Zekrom",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0645",
+        "ennom": "Landorus",
+        "frnom": "Démétéros",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0646",
+        "ennom": "Kyurem",
+        "frnom": "Kyurem",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0647",
+        "ennom": "Keldeo",
+        "frnom": "Keldeo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0648",
+        "ennom": "Meloetta",
+        "frnom": "Meloetta",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0649",
+        "ennom": "Genesect",
+        "frnom": "Genesect",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0650",
+        "ennom": "Chespin",
+        "frnom": "Marisson",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0651",
+        "ennom": "Quilladin",
+        "frnom": "Boguérisse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0652",
+        "ennom": "Chesnaught",
+        "frnom": "Blindépique",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0653",
+        "ennom": "Fennekin",
+        "frnom": "Feunnec",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0654",
+        "ennom": "Braixen",
+        "frnom": "Roussil",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0655",
+        "ennom": "Delphox",
+        "frnom": "Goupelin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0656",
+        "ennom": "Froakie",
+        "frnom": "Grenousse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0657",
+        "ennom": "Frogadier",
+        "frnom": "Croâporal",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0658",
+        "ennom": "Greninja",
+        "frnom": "Amphinobi",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0659",
+        "ennom": "Bunnelby",
+        "frnom": "Sapereau",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0660",
+        "ennom": "Diggersby",
+        "frnom": "Excavarenne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0661",
+        "ennom": "Fletchling",
+        "frnom": "Passerouge",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0662",
+        "ennom": "Fletchinder",
+        "frnom": "Braisillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0663",
+        "ennom": "Talonflame",
+        "frnom": "Flambusard",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0664",
+        "ennom": "Scatterbug",
+        "frnom": "Lépidonille",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0665",
+        "ennom": "Spewpa",
+        "frnom": "Pérégrain",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0666",
+        "ennom": "Vivillon",
+        "frnom": "Prismillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0667",
+        "ennom": "Litleo",
+        "frnom": "Hélionceau",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0668",
+        "ennom": "Pyroar",
+        "frnom": "Némélios",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0669",
+        "ennom": "Flabébé",
+        "frnom": "Flabébé",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0670",
+        "ennom": "Floette",
+        "frnom": "Floette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0671",
+        "ennom": "Florges",
+        "frnom": "Florges",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0672",
+        "ennom": "Skiddo",
+        "frnom": "Cabriolaine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0673",
+        "ennom": "Gogoat",
+        "frnom": "Chevroum",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0674",
+        "ennom": "Pancham",
+        "frnom": "Pandespiègle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0675",
+        "ennom": "Pangoro",
+        "frnom": "Pandarbare",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0676",
+        "ennom": "Furfrou",
+        "frnom": "Couafarel",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0677",
+        "ennom": "Espurr",
+        "frnom": "Psystigri",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0678",
+        "ennom": "Meowstic",
+        "frnom": "Mistigrix",
+        "forme1": "Mâle",
+        "forme2": "Femelle",
+        "ligue": true
+    },
+    {
+        "dexnum": "0679",
+        "ennom": "Honedge",
+        "frnom": "Monorpale",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0680",
+        "ennom": "Doublade",
+        "frnom": "Dimoclès",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0681",
+        "ennom": "Aegislash",
+        "frnom": "Exagide",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0682",
+        "ennom": "Spritzee",
+        "frnom": "Fluvetin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0683",
+        "ennom": "Aromatisse",
+        "frnom": "Cocotine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0684",
+        "ennom": "Swirlix",
+        "frnom": "Sucroquin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0685",
+        "ennom": "Slurpuff",
+        "frnom": "Cupcanaille",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0686",
+        "ennom": "Inkay",
+        "frnom": "Sepiatop",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0687",
+        "ennom": "Malamar",
+        "frnom": "Sepiatroce",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0688",
+        "ennom": "Binacle",
+        "frnom": "Opermine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0689",
+        "ennom": "Barbaracle",
+        "frnom": "Golgopathe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0690",
+        "ennom": "Skrelp",
+        "frnom": "Venalgue",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0691",
+        "ennom": "Dragalge",
+        "frnom": "Kravarech",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0692",
+        "ennom": "Clauncher",
+        "frnom": "Flingouste",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0693",
+        "ennom": "Clawitzer",
+        "frnom": "Gamblast",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0694",
+        "ennom": "Helioptile",
+        "frnom": "Galvaran",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0695",
+        "ennom": "Heliolisk",
+        "frnom": "Iguolta",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0696",
+        "ennom": "Tyrunt",
+        "frnom": "Ptyranidur",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0697",
+        "ennom": "Tyrantrum",
+        "frnom": "Rexillius",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0698",
+        "ennom": "Amaura",
+        "frnom": "Amagara",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0699",
+        "ennom": "Aurorus",
+        "frnom": "Dragmara",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0700",
+        "ennom": "Sylveon",
+        "frnom": "Nymphali",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0701",
+        "ennom": "Hawlucha",
+        "frnom": "Brutalibré",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0702",
+        "ennom": "Dedenne",
+        "frnom": "Dedenne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0703",
+        "ennom": "Carbink",
+        "frnom": "Strassie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0704",
+        "ennom": "Goomy",
+        "frnom": "Mucuscule",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0705",
+        "ennom": "Sliggoo",
+        "frnom": "Colimucus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0706",
+        "ennom": "Goodra",
+        "frnom": "Muplodocus",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0707",
+        "ennom": "Klefki",
+        "frnom": "Trousselin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0708",
+        "ennom": "Phantump",
+        "frnom": "Brocélôme",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0709",
+        "ennom": "Trevenant",
+        "frnom": "Desséliande",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0710",
+        "ennom": "Pumpkaboo",
+        "frnom": "Pitrouille",
+        "forme1": "Taille Mini",
+        "forme2": "Taille Normale",
+        "forme3": "Taille Maxi",
+        "forme4": "Taille Ultra",
+        "ligue": true
+    },
+    {
+        "dexnum": "0711",
+        "ennom": "Gourgeist",
+        "frnom": "Banshitrouye",
+        "forme1": "Taille Mini",
+        "forme2": "Taille Normale",
+        "forme3": "Taille Maxi",
+        "forme4": "Taille Ultra",
+        "ligue": true
+    },
+    {
+        "dexnum": "0712",
+        "ennom": "Bergmite",
+        "frnom": "Grelaçon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0713",
+        "ennom": "Avalugg",
+        "frnom": "Séracrawl",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0714",
+        "ennom": "Noibat",
+        "frnom": "Sonistrelle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0715",
+        "ennom": "Noivern",
+        "frnom": "Bruyverne",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0716",
+        "ennom": "Xerneas",
+        "frnom": "Xerneas",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0717",
+        "ennom": "Yveltal",
+        "frnom": "Yveltal",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0718",
+        "ennom": "Zygarde",
+        "frnom": "Zygarde",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0719",
+        "ennom": "Diancie",
+        "frnom": "Diancie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0720",
+        "ennom": "Hoopa",
+        "frnom": "Hoopa",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0721",
+        "ennom": "Volcanion",
+        "frnom": "Volcanion",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0722",
+        "ennom": "Rowlet",
+        "frnom": "Brindibou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0723",
+        "ennom": "Dartrix",
+        "frnom": "Efflèche",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0724",
+        "ennom": "Decidueye",
+        "frnom": "Archéduc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0725",
+        "ennom": "Litten",
+        "frnom": "Flamiaou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0726",
+        "ennom": "Torracat",
+        "frnom": "Matoufeu",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0727",
+        "ennom": "Incineroar",
+        "frnom": "Félinferno",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0728",
+        "ennom": "Popplio",
+        "frnom": "Otaquin",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0729",
+        "ennom": "Brionne",
+        "frnom": "Otarlette",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0730",
+        "ennom": "Primarina",
+        "frnom": "Oratoria",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0731",
+        "ennom": "Pikipek",
+        "frnom": "Picassaut",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0732",
+        "ennom": "Trumbeak",
+        "frnom": "Piclairon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0733",
+        "ennom": "Toucannon",
+        "frnom": "Bazoucan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0734",
+        "ennom": "Yungoos",
+        "frnom": "Manglouton",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0735",
+        "ennom": "Gumshoos",
+        "frnom": "Argouste",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0736",
+        "ennom": "Grubbin",
+        "frnom": "Larvibule",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0737",
+        "ennom": "Charjabug",
+        "frnom": "Chrysapile",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0738",
+        "ennom": "Vikavolt",
+        "frnom": "Lucanon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0739",
+        "ennom": "Crabrawler",
+        "frnom": "Crabagarre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0740",
+        "ennom": "Crabominable",
+        "frnom": "Crabominable",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0741",
+        "ennom": "Oricorio",
+        "frnom": "Plumeline",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0742",
+        "ennom": "Cutiefly",
+        "frnom": "Bombydou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0743",
+        "ennom": "Ribombee",
+        "frnom": "Rubombelle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0744",
+        "ennom": "Rockruff",
+        "frnom": "Rocabot",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0745",
+        "ennom": "Lycanroc",
+        "frnom": "Lougaroc",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0746",
+        "ennom": "Wishiwashi",
+        "frnom": "Froussardine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0747",
+        "ennom": "Mareanie",
+        "frnom": "Vorastérie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0748",
+        "ennom": "Toxapex",
+        "frnom": "Prédastérie",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0749",
+        "ennom": "Mudbray",
+        "frnom": "Tiboudet",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0750",
+        "ennom": "Mudsdale",
+        "frnom": "Bourrinos",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0751",
+        "ennom": "Dewpider",
+        "frnom": "Araqua",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0752",
+        "ennom": "Araquanid",
+        "frnom": "Tarenbulle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0753",
+        "ennom": "Fomantis",
+        "frnom": "Mimantis",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0754",
+        "ennom": "Lurantis",
+        "frnom": "Floramantis",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0755",
+        "ennom": "Morelull",
+        "frnom": "Spododo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0756",
+        "ennom": "Shiinotic",
+        "frnom": "Lampignon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0757",
+        "ennom": "Salandit",
+        "frnom": "Tritox",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0758",
+        "ennom": "Salazzle",
+        "frnom": "Malamandre",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0759",
+        "ennom": "Stufful",
+        "frnom": "Nounourson",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0760",
+        "ennom": "Bewear",
+        "frnom": "Chelours",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0761",
+        "ennom": "Bounsweet",
+        "frnom": "Croquine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0762",
+        "ennom": "Steenee",
+        "frnom": "Candine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0763",
+        "ennom": "Tsareena",
+        "frnom": "Sucreine",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0764",
+        "ennom": "Comfey",
+        "frnom": "Guérilande",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0765",
+        "ennom": "Oranguru",
+        "frnom": "Gouroutan",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0766",
+        "ennom": "Passimian",
+        "frnom": "Quartermac",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0767",
+        "ennom": "Wimpod",
+        "frnom": "Sovkipou",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0768",
+        "ennom": "Golisopod",
+        "frnom": "Sarmuraï",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0769",
+        "ennom": "Sandygast",
+        "frnom": "Bacabouh",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0770",
+        "ennom": "Palossand",
+        "frnom": "Trépassable",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0771",
+        "ennom": "Pyukumuku",
+        "frnom": "Concombaffe",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0772",
+        "ennom": "Type: Null",
+        "frnom": "Type:0",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0773",
+        "ennom": "Silvally",
+        "frnom": "Silvallié",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0774",
+        "ennom": "Minior",
+        "frnom": "Météno",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0775",
+        "ennom": "Komala",
+        "frnom": "Dodoala",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0776",
+        "ennom": "Turtonator",
+        "frnom": "Boumata",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0777",
+        "ennom": "Togedemaru",
+        "frnom": "Togedemaru",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0778",
+        "ennom": "Mimikyu",
+        "frnom": "Mimiqui",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0779",
+        "ennom": "Bruxish",
+        "frnom": "Denticrisse",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0780",
+        "ennom": "Drampa",
+        "frnom": "Draïeul",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0781",
+        "ennom": "Dhelmise",
+        "frnom": "Sinistrail",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0782",
+        "ennom": "Jangmo-o",
+        "frnom": "Bébécaille",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0783",
+        "ennom": "Hakamo-o",
+        "frnom": "Écaïd",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0784",
+        "ennom": "Kommo-o",
+        "frnom": "Ékaïser",
+        "forme1": "",
+        "forme2": "",
+        "ligue": true
+    },
+    {
+        "dexnum": "0785",
+        "ennom": "Tapu Koko",
+        "frnom": "Tokorico",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0786",
+        "ennom": "Tapu Lele",
+        "frnom": "Tokopiyon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0787",
+        "ennom": "Tapu Bulu",
+        "frnom": "Tokotoro",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0788",
+        "ennom": "Tapu Fini",
+        "frnom": "Tokopisco",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0789",
+        "ennom": "Cosmog",
+        "frnom": "Cosmog",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0790",
+        "ennom": "Cosmoem",
+        "frnom": "Cosmovum",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0791",
+        "ennom": "Solgaleo",
+        "frnom": "Solgaleo",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0792",
+        "ennom": "Lunala",
+        "frnom": "Lunala",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0793",
+        "ennom": "Nihilego",
+        "frnom": "Zéroïd",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0794",
+        "ennom": "Buzzwole",
+        "frnom": "Mouscoto",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0795",
+        "ennom": "Pheromosa",
+        "frnom": "Cancrelove",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0796",
+        "ennom": "Xurkitree",
+        "frnom": "Câblifère",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0797",
+        "ennom": "Celesteela",
+        "frnom": "Bamboiselle",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0798",
+        "ennom": "Kartana",
+        "frnom": "Katagami",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0799",
+        "ennom": "Guzzlord",
+        "frnom": "Engloutyran",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0800",
+        "ennom": "Necrozma",
+        "frnom": "Necrozma",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0801",
+        "ennom": "Magearna",
+        "frnom": "Magearna",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0802",
+        "ennom": "Marshadow",
+        "frnom": "Marshadow",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0803",
+        "ennom": "Poipole",
+        "frnom": "Vémini",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0804",
+        "ennom": "Naganadel",
+        "frnom": "Mandrillon",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0805",
+        "ennom": "Stakataka",
+        "frnom": "Ama-Ama",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0806",
+        "ennom": "Blacephalon",
+        "frnom": "Pierroteknik",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    },
+    {
+        "dexnum": "0807",
+        "ennom": "Zeraora",
+        "frnom": "Zeraora",
+        "forme1": "",
+        "forme2": "",
+        "ligue": false
+    }
+]

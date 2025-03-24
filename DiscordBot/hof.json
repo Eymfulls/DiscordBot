@@ -1,0 +1,62 @@
+{
+    "data": [
+        {
+            "id": 141195266555379712,
+            "dtag": "Vinc2612",
+            "date18badges": "2025-03-18",
+            "debutMaitre": "2025-03-18",
+            "finMaitre": false,
+            "nbMatchsChallenger": 0,
+            "nbMatchsMaitre": 0,
+            "pokemon": [
+                "Queulorior",
+                "Draïeul",
+                "Leuphorie",
+                "Roucarnage",
+                "Gouroutan",
+                "Silvallié",
+                "Kangourex",
+                "Frison",
+                "Chelours",
+                "Porygon2",
+                "Lockpin",
+                "Iguolta",
+                "Porygon-Z",
+                "Némélios",
+                "Étouraptor",
+                "Excavarenne",
+                "Haydaim",
+                "Ronflex"
+            ]
+        },
+        {
+            "id": 321668990483169282,
+            "dtag": "Gold",
+            "date18badges": "2025-03-18",
+            "debutMaitre": false,
+            "finMaitre": false,
+            "nbMatchsChallenger": 0,
+            "nbMatchsMaitre": 0,
+            "pokemon": [
+                "Corboss",
+                "Brutalibré",
+                "Yanméga",
+                "Bruyverne",
+                "Étouraptor",
+                "Togekiss",
+                "Cornèbre",
+                "Vaututrice",
+                "Airmure",
+                "Dracaufeu",
+                "Bekipan",
+                "Dracolosse",
+                "Drattak",
+                "Ptéra",
+                "Scorvol",
+                "Nostenfer",
+                "Léviator",
+                "Flambusard"
+            ]
+        }
+    ]
+}

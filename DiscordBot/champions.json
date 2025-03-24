@@ -1,0 +1,148 @@
+{
+    "data": [
+        {
+            "id": 141195266555379712,
+            "dtag": "Vinc2612",
+            "type": "Normal",
+            "style": "Duo",
+            "terrain": "Échiquier",
+            "titre": "Roquestar"
+        },
+        {
+            "id": 305775114954473474,
+            "dtag": "Pragorius",
+            "type": "Plante",
+            "terrain": "Jardin Fleuri",
+            "style": "Duo",
+            "titre": "Jardinier"
+        },
+        {
+            "id": 792098954342957096,
+            "dtag": "Bláthanna",
+            "type": "Feu",
+            "terrain": "Champ Herbu",
+            "style": "Solo",
+            "titre": "Passionnée"
+        },
+        {
+            "id": 265252243207356417,
+            "dtag": "Chrink",
+            "type": "Insecte",
+            "terrain": "Forêt",
+            "style": "Duo",
+            "titre": "Chef des Soldats Insectes"
+        },
+        {
+            "id": 1198625640610529290,
+            "dtag": "Lucily",
+            "type": "Glace",
+            "terrain": "Terrain Glacé",
+            "style": "Duo",
+            "titre": "Conservatrice"
+        },
+        {
+            "id": 490634394323779588,
+            "dtag": "Pallous",
+            "type": "Ténèbres",
+            "terrain": "Nouveau Monde",
+            "style": "Solo",
+            "titre": "Nyctophile"
+        },
+        {
+            "id": 294980584105836544,
+            "dtag": "Yuzu",
+            "type": "Spectre",
+            "terrain": "Caverne Obscure",
+            "style": "Solo",
+            "titre": "Régisseur de la mort"
+        },
+        {
+            "id": 224758048592363521,
+            "dtag": "MaxPoisson",
+            "type": "Dragon",
+            "terrain": "Antre du Dragon",
+            "style": "Solo",
+            "titre": "Dracologue"
+        },
+        {
+            "id": 264436015471656971,
+            "dtag": "Meracx",
+            "type": "Psy",
+            "terrain": "Terrain Glitché",
+            "style": "Solo",
+            "titre": "Nostalgique"
+        },
+        {
+            "id": 169841265670619146,
+            "dtag": "mysoury",
+            "type": "Électrik",
+            "terrain": "Champ Électrifié",
+            "style": "Duo",
+            "titre": "Conducteur"
+        },
+        {
+            "id": 310445088952287232,
+            "dtag": "AsaNihilum",
+            "type": "Poison",
+            "terrain": "Terrain Corossif",
+            "style": "Solo",
+            "titre": "Alchimiste"
+        },
+        {
+            "id": 976556498169774150,
+            "dtag": "Maelcattet",
+            "type": "Roche",
+            "terrain": "Caverne de Cristaux",
+            "style": "Solo ou Duo (au choix)",
+            "titre": "Bulldozer"
+        },
+        {
+            "id": 321668990483169282,
+            "dtag": "Gold",
+            "type": "Vol",
+            "terrain": "Montagne",
+            "style": "Duo",
+            "titre": "Pilote"
+        },
+        {
+            "id": 221352736657113088,
+            "dtag": "thunderfenril",
+            "type": "Eau",
+            "terrain": "Sous l'eau",
+            "style": "Solo",
+            "titre": "Plongeur"
+        },
+        {
+            "id": 451369556020035584,
+            "dtag": "Teto-Tourtangeau",
+            "type": "Combat",
+            "terrain": "Scène de Spectacle",
+            "style": "Solo",
+            "titre": "Bodybuilder"
+        },
+        {
+            "id": 451171776664174593,
+            "dtag": "Kuro",
+            "type": "Fée",
+            "terrain": "Piste aux étoiles",
+            "style": "Solo",
+            "titre": "Enchanteur"
+        },
+        {
+            "id": 380041438194434059,
+            "dtag": "Aerphal",
+            "type": "Sol",
+            "terrain": "Plage Cendrée",
+            "style": "Solo",
+            "titre": "Marcheur de Sable"
+        },
+        {
+            "id": 1279186286825181320,
+            "dtag": "Saki3109",
+            "type": "Acier",
+            "terrain": "Crassier",
+            "style": "Solo",
+            "titre": "Cavalier"
+        }
+    ]
+}

@@ -1,0 +1,4307 @@
+[
+    {
+        "id": 1,
+        "en": "Pound",
+        "fr": "Écras'Face"
+    },
+    {
+        "id": 2,
+        "en": "Karate Chop",
+        "fr": "Poing Karaté"
+    },
+    {
+        "id": 3,
+        "en": "Double Slap",
+        "fr": "Torgnoles"
+    },
+    {
+        "id": 4,
+        "en": "Comet Punch",
+        "fr": "Poing Comète"
+    },
+    {
+        "id": 5,
+        "en": "Mega Punch",
+        "fr": "Ultimapoing"
+    },
+    {
+        "id": 6,
+        "en": "Pay Day",
+        "fr": "Jackpot"
+    },
+    {
+        "id": 7,
+        "en": "Fire Punch",
+        "fr": "Poing Feu"
+    },
+    {
+        "id": 8,
+        "en": "Ice Punch",
+        "fr": "Poing Glace"
+    },
+    {
+        "id": 9,
+        "en": "Thunder Punch",
+        "fr": "Poing Éclair"
+    },
+    {
+        "id": 10,
+        "en": "Scratch",
+        "fr": "Griffe"
+    },
+    {
+        "id": 11,
+        "en": "Vise Grip",
+        "fr": "Force Poigne"
+    },
+    {
+        "id": 12,
+        "en": "Guillotine",
+        "fr": "Guillotine"
+    },
+    {
+        "id": 13,
+        "en": "Razor Wind",
+        "fr": "Coupe-Vent"
+    },
+    {
+        "id": 14,
+        "en": "Swords Dance",
+        "fr": "Danse Lames"
+    },
+    {
+        "id": 15,
+        "en": "Cut",
+        "fr": "Coupe"
+    },
+    {
+        "id": 16,
+        "en": "Gust",
+        "fr": "Tornade"
+    },
+    {
+        "id": 17,
+        "en": "Wing Attack",
+        "fr": "Cru-Ailes"
+    },
+    {
+        "id": 18,
+        "en": "Whirlwind",
+        "fr": "Cyclone"
+    },
+    {
+        "id": 19,
+        "en": "Fly",
+        "fr": "Vol"
+    },
+    {
+        "id": 20,
+        "en": "Bind",
+        "fr": "Étreinte"
+    },
+    {
+        "id": 21,
+        "en": "Slam",
+        "fr": "Souplesse"
+    },
+    {
+        "id": 22,
+        "en": "Vine Whip",
+        "fr": "Fouet Lianes"
+    },
+    {
+        "id": 23,
+        "en": "Stomp",
+        "fr": "Écrasement"
+    },
+    {
+        "id": 24,
+        "en": "Double Kick",
+        "fr": "Double Pied"
+    },
+    {
+        "id": 25,
+        "en": "Mega Kick",
+        "fr": "Ultimawashi"
+    },
+    {
+        "id": 26,
+        "en": "Jump Kick",
+        "fr": "Pied Sauté"
+    },
+    {
+        "id": 27,
+        "en": "Rolling Kick",
+        "fr": "Mawashi Geri"
+    },
+    {
+        "id": 28,
+        "en": "Sand Attack",
+        "fr": "Jet de Sable"
+    },
+    {
+        "id": 29,
+        "en": "Headbutt",
+        "fr": "Coup d'Boule"
+    },
+    {
+        "id": 30,
+        "en": "Horn Attack",
+        "fr": "Koud'Korne"
+    },
+    {
+        "id": 31,
+        "en": "Fury Attack",
+        "fr": "Furie"
+    },
+    {
+        "id": 32,
+        "en": "Horn Drill",
+        "fr": "Empal'Korne"
+    },
+    {
+        "id": 33,
+        "en": "Tackle",
+        "fr": "Charge"
+    },
+    {
+        "id": 34,
+        "en": "Body Slam",
+        "fr": "Plaquage"
+    },
+    {
+        "id": 35,
+        "en": "Wrap",
+        "fr": "Ligotage"
+    },
+    {
+        "id": 36,
+        "en": "Take Down",
+        "fr": "Bélier"
+    },
+    {
+        "id": 37,
+        "en": "Thrash",
+        "fr": "Mania"
+    },
+    {
+        "id": 38,
+        "en": "Double-Edge",
+        "fr": "Damoclès"
+    },
+    {
+        "id": 39,
+        "en": "Tail Whip",
+        "fr": "Mimi-Queue"
+    },
+    {
+        "id": 40,
+        "en": "Poison Sting",
+        "fr": "Dard-Venin"
+    },
+    {
+        "id": 41,
+        "en": "Twineedle",
+        "fr": "Double Dard"
+    },
+    {
+        "id": 42,
+        "en": "Pin Missile",
+        "fr": "Dard-Nuée"
+    },
+    {
+        "id": 43,
+        "en": "Leer",
+        "fr": "Groz'Yeux"
+    },
+    {
+        "id": 44,
+        "en": "Bite",
+        "fr": "Morsure"
+    },
+    {
+        "id": 45,
+        "en": "Growl",
+        "fr": "Rugissement"
+    },
+    {
+        "id": 46,
+        "en": "Roar",
+        "fr": "Hurlement"
+    },
+    {
+        "id": 47,
+        "en": "Sing",
+        "fr": "Berceuse"
+    },
+    {
+        "id": 48,
+        "en": "Supersonic",
+        "fr": "Ultrason"
+    },
+    {
+        "id": 49,
+        "en": "Sonic Boom",
+        "fr": "Sonic Boom"
+    },
+    {
+        "id": 50,
+        "en": "Disable",
+        "fr": "Entrave"
+    },
+    {
+        "id": 51,
+        "en": "Acid",
+        "fr": "Acide"
+    },
+    {
+        "id": 52,
+        "en": "Ember",
+        "fr": "Flammèche"
+    },
+    {
+        "id": 53,
+        "en": "Flamethrower",
+        "fr": "Lance-Flammes"
+    },
+    {
+        "id": 54,
+        "en": "Mist",
+        "fr": "Brume"
+    },
+    {
+        "id": 55,
+        "en": "Water Gun",
+        "fr": "Pistolet à O"
+    },
+    {
+        "id": 56,
+        "en": "Hydro Pump",
+        "fr": "Hydrocanon"
+    },
+    {
+        "id": 57,
+        "en": "Surf",
+        "fr": "Surf"
+    },
+    {
+        "id": 58,
+        "en": "Ice Beam",
+        "fr": "Laser Glace"
+    },
+    {
+        "id": 59,
+        "en": "Blizzard",
+        "fr": "Blizzard"
+    },
+    {
+        "id": 60,
+        "en": "Psybeam",
+        "fr": "Rafale Psy"
+    },
+    {
+        "id": 61,
+        "en": "Bubble Beam",
+        "fr": "Bulles d'O"
+    },
+    {
+        "id": 62,
+        "en": "Aurora Beam",
+        "fr": "Onde Boréale"
+    },
+    {
+        "id": 63,
+        "en": "Hyper Beam",
+        "fr": "Ultralaser"
+    },
+    {
+        "id": 64,
+        "en": "Peck",
+        "fr": "Picpic"
+    },
+    {
+        "id": 65,
+        "en": "Drill Peck",
+        "fr": "Bec Vrille"
+    },
+    {
+        "id": 66,
+        "en": "Submission",
+        "fr": "Sacrifice"
+    },
+    {
+        "id": 67,
+        "en": "Low Kick",
+        "fr": "Balayage"
+    },
+    {
+        "id": 68,
+        "en": "Counter",
+        "fr": "Riposte"
+    },
+    {
+        "id": 69,
+        "en": "Seismic Toss",
+        "fr": "Frappe Atlas"
+    },
+    {
+        "id": 70,
+        "en": "Strength",
+        "fr": "Force"
+    },
+    {
+        "id": 71,
+        "en": "Absorb",
+        "fr": "Vole-Vie"
+    },
+    {
+        "id": 72,
+        "en": "Mega Drain",
+        "fr": "Méga-Sangsue"
+    },
+    {
+        "id": 73,
+        "en": "Leech Seed",
+        "fr": "Vampigraine"
+    },
+    {
+        "id": 74,
+        "en": "Growth",
+        "fr": "Croissance"
+    },
+    {
+        "id": 75,
+        "en": "Razor Leaf",
+        "fr": "Tranch'Herbe"
+    },
+    {
+        "id": 76,
+        "en": "Solar Beam",
+        "fr": "Lance-Soleil"
+    },
+    {
+        "id": 77,
+        "en": "Poison Powder",
+        "fr": "Poudre Toxik"
+    },
+    {
+        "id": 78,
+        "en": "Stun Spore",
+        "fr": "Para-Spore"
+    },
+    {
+        "id": 79,
+        "en": "Sleep Powder",
+        "fr": "Poudre Dodo"
+    },
+    {
+        "id": 80,
+        "en": "Petal Dance",
+        "fr": "Danse Fleurs"
+    },
+    {
+        "id": 81,
+        "en": "String Shot",
+        "fr": "Sécrétion"
+    },
+    {
+        "id": 82,
+        "en": "Dragon Rage",
+        "fr": "Draco-Rage"
+    },
+    {
+        "id": 83,
+        "en": "Fire Spin",
+        "fr": "Danse Flammes"
+    },
+    {
+        "id": 84,
+        "en": "Thunder Shock",
+        "fr": "Éclair"
+    },
+    {
+        "id": 85,
+        "en": "Thunderbolt",
+        "fr": "Tonnerre"
+    },
+    {
+        "id": 86,
+        "en": "Thunder Wave",
+        "fr": "Cage Éclair"
+    },
+    {
+        "id": 87,
+        "en": "Thunder",
+        "fr": "Fatal-Foudre"
+    },
+    {
+        "id": 88,
+        "en": "Rock Throw",
+        "fr": "Jet-Pierres"
+    },
+    {
+        "id": 89,
+        "en": "Earthquake",
+        "fr": "Séisme"
+    },
+    {
+        "id": 90,
+        "en": "Fissure",
+        "fr": "Abîme"
+    },
+    {
+        "id": 91,
+        "en": "Dig",
+        "fr": "Tunnel"
+    },
+    {
+        "id": 92,
+        "en": "Toxic",
+        "fr": "Toxik"
+    },
+    {
+        "id": 93,
+        "en": "Confusion",
+        "fr": "Choc Mental"
+    },
+    {
+        "id": 94,
+        "en": "Psychic",
+        "fr": "Psyko"
+    },
+    {
+        "id": 95,
+        "en": "Hypnosis",
+        "fr": "Hypnose"
+    },
+    {
+        "id": 96,
+        "en": "Meditate",
+        "fr": "Yoga"
+    },
+    {
+        "id": 97,
+        "en": "Agility",
+        "fr": "Hâte"
+    },
+    {
+        "id": 98,
+        "en": "Quick Attack",
+        "fr": "Vive-attaque"
+    },
+    {
+        "id": 99,
+        "en": "Rage",
+        "fr": "Frénésie"
+    },
+    {
+        "id": 100,
+        "en": "Teleport",
+        "fr": "Téléport"
+    },
+    {
+        "id": 101,
+        "en": "Night Shade",
+        "fr": "Ombre Nocturne"
+    },
+    {
+        "id": 102,
+        "en": "Mimic",
+        "fr": "Copie"
+    },
+    {
+        "id": 103,
+        "en": "Screech",
+        "fr": "Grincement"
+    },
+    {
+        "id": 104,
+        "en": "Double Team",
+        "fr": "Reflet"
+    },
+    {
+        "id": 105,
+        "en": "Recover",
+        "fr": "Soin"
+    },
+    {
+        "id": 106,
+        "en": "Harden",
+        "fr": "Armure"
+    },
+    {
+        "id": 107,
+        "en": "Minimize",
+        "fr": "Lilliput"
+    },
+    {
+        "id": 108,
+        "en": "Smokescreen",
+        "fr": "Brouillard"
+    },
+    {
+        "id": 109,
+        "en": "Confuse Ray",
+        "fr": "Onde Folie"
+    },
+    {
+        "id": 110,
+        "en": "Withdraw",
+        "fr": "Repli"
+    },
+    {
+        "id": 111,
+        "en": "Defense Curl",
+        "fr": "Boul'Armure"
+    },
+    {
+        "id": 112,
+        "en": "Barrier",
+        "fr": "Bouclier"
+    },
+    {
+        "id": 113,
+        "en": "Light Screen",
+        "fr": "Mur Lumière"
+    },
+    {
+        "id": 114,
+        "en": "Haze",
+        "fr": "Buée Noire"
+    },
+    {
+        "id": 115,
+        "en": "Reflect",
+        "fr": "Protection"
+    },
+    {
+        "id": 116,
+        "en": "Focus Energy",
+        "fr": "Puissance"
+    },
+    {
+        "id": 117,
+        "en": "Bide",
+        "fr": "Patience"
+    },
+    {
+        "id": 118,
+        "en": "Metronome",
+        "fr": "Métronome"
+    },
+    {
+        "id": 119,
+        "en": "Mirror Move",
+        "fr": "Mimique"
+    },
+    {
+        "id": 120,
+        "en": "Self-Destruct",
+        "fr": "Destruction"
+    },
+    {
+        "id": 121,
+        "en": "Egg Bomb",
+        "fr": "Bombe Œuf"
+    },
+    {
+        "id": 122,
+        "en": "Lick",
+        "fr": "Léchouille"
+    },
+    {
+        "id": 123,
+        "en": "Smog",
+        "fr": "Purédpois"
+    },
+    {
+        "id": 124,
+        "en": "Sludge",
+        "fr": "Détritus"
+    },
+    {
+        "id": 125,
+        "en": "Bone Club",
+        "fr": "Massd'Os"
+    },
+    {
+        "id": 126,
+        "en": "Fire Blast",
+        "fr": "Déflagration"
+    },
+    {
+        "id": 127,
+        "en": "Waterfall",
+        "fr": "Cascade"
+    },
+    {
+        "id": 128,
+        "en": "Clamp",
+        "fr": "Claquoir"
+    },
+    {
+        "id": 129,
+        "en": "Swift",
+        "fr": "Météores"
+    },
+    {
+        "id": 130,
+        "en": "Skull Bash",
+        "fr": "Coud'Krâne"
+    },
+    {
+        "id": 131,
+        "en": "Spike Cannon",
+        "fr": "Picanon"
+    },
+    {
+        "id": 132,
+        "en": "Constrict",
+        "fr": "Constriction"
+    },
+    {
+        "id": 133,
+        "en": "Amnesia",
+        "fr": "Amnésie"
+    },
+    {
+        "id": 134,
+        "en": "Kinesis",
+        "fr": "Télékinésie"
+    },
+    {
+        "id": 135,
+        "en": "Soft-Boiled",
+        "fr": "E-Coque"
+    },
+    {
+        "id": 136,
+        "en": "High Jump Kick",
+        "fr": "Pied Voltige"
+    },
+    {
+        "id": 137,
+        "en": "Glare",
+        "fr": "Regard Médusant"
+    },
+    {
+        "id": 138,
+        "en": "Dream Eater",
+        "fr": "Dévorêve"
+    },
+    {
+        "id": 139,
+        "en": "Poison Gas",
+        "fr": "Gaz Toxik"
+    },
+    {
+        "id": 140,
+        "en": "Barrage",
+        "fr": "Pilonnage"
+    },
+    {
+        "id": 141,
+        "en": "Leech Life",
+        "fr": "Vampirisme"
+    },
+    {
+        "id": 142,
+        "en": "Lovely Kiss",
+        "fr": "Grobisou"
+    },
+    {
+        "id": 143,
+        "en": "Sky Attack",
+        "fr": "Piqué"
+    },
+    {
+        "id": 144,
+        "en": "Transform",
+        "fr": "Morphing"
+    },
+    {
+        "id": 145,
+        "en": "Bubble",
+        "fr": "Écume"
+    },
+    {
+        "id": 146,
+        "en": "Dizzy Punch",
+        "fr": "Uppercut"
+    },
+    {
+        "id": 147,
+        "en": "Spore",
+        "fr": "Spore"
+    },
+    {
+        "id": 148,
+        "en": "Flash",
+        "fr": "Flash"
+    },
+    {
+        "id": 149,
+        "en": "Psywave",
+        "fr": "Vague Psy"
+    },
+    {
+        "id": 150,
+        "en": "Splash",
+        "fr": "Trempette"
+    },
+    {
+        "id": 151,
+        "en": "Acid Armor",
+        "fr": "Acidarmure"
+    },
+    {
+        "id": 152,
+        "en": "Crabhammer",
+        "fr": "Pince-Masse"
+    },
+    {
+        "id": 153,
+        "en": "Explosion",
+        "fr": "Explosion"
+    },
+    {
+        "id": 154,
+        "en": "Fury Swipes",
+        "fr": "Combo-Griffe"
+    },
+    {
+        "id": 155,
+        "en": "Bonemerang",
+        "fr": "Osmerang"
+    },
+    {
+        "id": 156,
+        "en": "Rest",
+        "fr": "Repos"
+    },
+    {
+        "id": 157,
+        "en": "Rock Slide",
+        "fr": "Éboulement"
+    },
+    {
+        "id": 158,
+        "en": "Hyper Fang",
+        "fr": "Croc de Mort"
+    },
+    {
+        "id": 159,
+        "en": "Sharpen",
+        "fr": "Affûtage"
+    },
+    {
+        "id": 160,
+        "en": "Conversion",
+        "fr": "Conversion"
+    },
+    {
+        "id": 161,
+        "en": "Tri Attack",
+        "fr": "Triplattaque"
+    },
+    {
+        "id": 162,
+        "en": "Super Fang",
+        "fr": "Croc Fatal"
+    },
+    {
+        "id": 163,
+        "en": "Slash",
+        "fr": "Tranche"
+    },
+    {
+        "id": 164,
+        "en": "Substitute",
+        "fr": "Clonage"
+    },
+    {
+        "id": 165,
+        "en": "Struggle",
+        "fr": "Lutte"
+    },
+    {
+        "id": 166,
+        "en": "Sketch",
+        "fr": "Gribouille"
+    },
+    {
+        "id": 167,
+        "en": "Triple Kick",
+        "fr": "Triple Pied"
+    },
+    {
+        "id": 168,
+        "en": "Thief",
+        "fr": "Larcin"
+    },
+    {
+        "id": 169,
+        "en": "Spider Web",
+        "fr": "Toile"
+    },
+    {
+        "id": 170,
+        "en": "Mind Reader",
+        "fr": "Lire-Esprit"
+    },
+    {
+        "id": 171,
+        "en": "Nightmare",
+        "fr": "Cauchemar"
+    },
+    {
+        "id": 172,
+        "en": "Flame Wheel",
+        "fr": "Roue de Feu"
+    },
+    {
+        "id": 173,
+        "en": "Snore",
+        "fr": "Ronflement"
+    },
+    {
+        "id": 174,
+        "en": "Curse",
+        "fr": "Malédiction"
+    },
+    {
+        "id": 175,
+        "en": "Flail",
+        "fr": "Gigotage"
+    },
+    {
+        "id": 176,
+        "en": "Conversion 2",
+        "fr": "Conversion2"
+    },
+    {
+        "id": 177,
+        "en": "Aeroblast",
+        "fr": "Aéroblast"
+    },
+    {
+        "id": 178,
+        "en": "Cotton Spore",
+        "fr": "Spore Coton"
+    },
+    {
+        "id": 179,
+        "en": "Reversal",
+        "fr": "Contre"
+    },
+    {
+        "id": 180,
+        "en": "Spite",
+        "fr": "Dépit"
+    },
+    {
+        "id": 181,
+        "en": "Powder Snow",
+        "fr": "Poudreuse"
+    },
+    {
+        "id": 182,
+        "en": "Protect",
+        "fr": "Abri"
+    },
+    {
+        "id": 183,
+        "en": "Mach Punch",
+        "fr": "Mach Punch"
+    },
+    {
+        "id": 184,
+        "en": "Scary Face",
+        "fr": "Grimace"
+    },
+    {
+        "id": 185,
+        "en": "Feint Attack",
+        "fr": "Feinte"
+    },
+    {
+        "id": 186,
+        "en": "Sweet Kiss",
+        "fr": "Doux Baiser"
+    },
+    {
+        "id": 187,
+        "en": "Belly Drum",
+        "fr": "Cognobidon"
+    },
+    {
+        "id": 188,
+        "en": "Sludge Bomb",
+        "fr": "Bombe Beurk"
+    },
+    {
+        "id": 189,
+        "en": "Mud-Slap",
+        "fr": "Coud'Boue"
+    },
+    {
+        "id": 190,
+        "en": "Octazooka",
+        "fr": "Octazooka"
+    },
+    {
+        "id": 191,
+        "en": "Spikes",
+        "fr": "Picots"
+    },
+    {
+        "id": 192,
+        "en": "Zap Cannon",
+        "fr": "Élecanon"
+    },
+    {
+        "id": 193,
+        "en": "Foresight",
+        "fr": "Clairvoyance"
+    },
+    {
+        "id": 194,
+        "en": "Destiny Bond",
+        "fr": "Lien du Destin"
+    },
+    {
+        "id": 195,
+        "en": "Perish Song",
+        "fr": "Requiem"
+    },
+    {
+        "id": 196,
+        "en": "Icy Wind",
+        "fr": "Vent Glace"
+    },
+    {
+        "id": 197,
+        "en": "Detect",
+        "fr": "Détection"
+    },
+    {
+        "id": 198,
+        "en": "Bone Rush",
+        "fr": "Charge Os"
+    },
+    {
+        "id": 199,
+        "en": "Lock-On",
+        "fr": "Verrouillage"
+    },
+    {
+        "id": 200,
+        "en": "Outrage",
+        "fr": "Colère"
+    },
+    {
+        "id": 201,
+        "en": "Sandstorm",
+        "fr": "Tempête de Sable"
+    },
+    {
+        "id": 202,
+        "en": "Giga Drain",
+        "fr": "Giga-Sangsue"
+    },
+    {
+        "id": 203,
+        "en": "Endure",
+        "fr": "Ténacité"
+    },
+    {
+        "id": 204,
+        "en": "Charm",
+        "fr": "Charme"
+    },
+    {
+        "id": 205,
+        "en": "Rollout",
+        "fr": "Roulade"
+    },
+    {
+        "id": 206,
+        "en": "False Swipe",
+        "fr": "Faux-Chage"
+    },
+    {
+        "id": 207,
+        "en": "Swagger",
+        "fr": "Vantardise"
+    },
+    {
+        "id": 208,
+        "en": "Milk Drink",
+        "fr": "Lait à Boire"
+    },
+    {
+        "id": 209,
+        "en": "Spark",
+        "fr": "Étincelle"
+    },
+    {
+        "id": 210,
+        "en": "Fury Cutter",
+        "fr": "Taillade"
+    },
+    {
+        "id": 211,
+        "en": "Steel Wing",
+        "fr": "Ailes d'Acier"
+    },
+    {
+        "id": 212,
+        "en": "Mean Look",
+        "fr": "Regard Noir"
+    },
+    {
+        "id": 213,
+        "en": "Attract",
+        "fr": "Attraction"
+    },
+    {
+        "id": 214,
+        "en": "Sleep Talk",
+        "fr": "Blabla Dodo"
+    },
+    {
+        "id": 215,
+        "en": "Heal Bell",
+        "fr": "Glas de Soin"
+    },
+    {
+        "id": 216,
+        "en": "Return",
+        "fr": "Retour"
+    },
+    {
+        "id": 217,
+        "en": "Present",
+        "fr": "Cadeau"
+    },
+    {
+        "id": 218,
+        "en": "Frustration",
+        "fr": "Frustration"
+    },
+    {
+        "id": 219,
+        "en": "Safeguard",
+        "fr": "Rune Protect"
+    },
+    {
+        "id": 220,
+        "en": "Pain Split",
+        "fr": "Balance"
+    },
+    {
+        "id": 221,
+        "en": "Sacred Fire",
+        "fr": "Feu Sacré"
+    },
+    {
+        "id": 222,
+        "en": "Magnitude",
+        "fr": "Ampleur"
+    },
+    {
+        "id": 223,
+        "en": "Dynamic Punch",
+        "fr": "Dynamo-Poing"
+    },
+    {
+        "id": 224,
+        "en": "Megahorn",
+        "fr": "Mégacorne"
+    },
+    {
+        "id": 225,
+        "en": "Dragon Breath",
+        "fr": "Draco-Souffle"
+    },
+    {
+        "id": 226,
+        "en": "Baton Pass",
+        "fr": "Relais"
+    },
+    {
+        "id": 227,
+        "en": "Encore",
+        "fr": "Encore"
+    },
+    {
+        "id": 228,
+        "en": "Pursuit",
+        "fr": "Poursuite"
+    },
+    {
+        "id": 229,
+        "en": "Rapid Spin",
+        "fr": "Tour Rapide"
+    },
+    {
+        "id": 230,
+        "en": "Sweet Scent",
+        "fr": "Doux Parfum"
+    },
+    {
+        "id": 231,
+        "en": "Iron Tail",
+        "fr": "Queue de Fer"
+    },
+    {
+        "id": 232,
+        "en": "Metal Claw",
+        "fr": "Griffe Acier"
+    },
+    {
+        "id": 233,
+        "en": "Vital Throw",
+        "fr": "Corps Perdu"
+    },
+    {
+        "id": 234,
+        "en": "Morning Sun",
+        "fr": "Aurore"
+    },
+    {
+        "id": 235,
+        "en": "Synthesis",
+        "fr": "Synthèse"
+    },
+    {
+        "id": 236,
+        "en": "Moonlight",
+        "fr": "Rayon Lune"
+    },
+    {
+        "id": 237,
+        "en": "Hidden Power",
+        "fr": "Puissance Cachée"
+    },
+    {
+        "id": 238,
+        "en": "Cross Chop",
+        "fr": "Coup Croix"
+    },
+    {
+        "id": 239,
+        "en": "Twister",
+        "fr": "Ouragan"
+    },
+    {
+        "id": 240,
+        "en": "Rain Dance",
+        "fr": "Danse Pluie"
+    },
+    {
+        "id": 241,
+        "en": "Sunny Day",
+        "fr": "Zénith"
+    },
+    {
+        "id": 242,
+        "en": "Crunch",
+        "fr": "Mâchouille"
+    },
+    {
+        "id": 243,
+        "en": "Mirror Coat",
+        "fr": "Voile Miroir"
+    },
+    {
+        "id": 244,
+        "en": "Psych Up",
+        "fr": "Boost"
+    },
+    {
+        "id": 245,
+        "en": "Extreme Speed",
+        "fr": "Vitesse Extrême"
+    },
+    {
+        "id": 246,
+        "en": "Ancient Power",
+        "fr": "Pouvoir Antique"
+    },
+    {
+        "id": 247,
+        "en": "Shadow Ball",
+        "fr": "Ball'Ombre"
+    },
+    {
+        "id": 248,
+        "en": "Future Sight",
+        "fr": "Prescience"
+    },
+    {
+        "id": 249,
+        "en": "Rock Smash",
+        "fr": "Éclate-Roc"
+    },
+    {
+        "id": 250,
+        "en": "Whirlpool",
+        "fr": "Siphon"
+    },
+    {
+        "id": 251,
+        "en": "Beat Up",
+        "fr": "Baston"
+    },
+    {
+        "id": 252,
+        "en": "Fake Out",
+        "fr": "Bluff"
+    },
+    {
+        "id": 253,
+        "en": "Uproar",
+        "fr": "Brouhaha"
+    },
+    {
+        "id": 254,
+        "en": "Stockpile",
+        "fr": "Stockage"
+    },
+    {
+        "id": 255,
+        "en": "Spit Up",
+        "fr": "Relâche"
+    },
+    {
+        "id": 256,
+        "en": "Swallow",
+        "fr": "Avale"
+    },
+    {
+        "id": 257,
+        "en": "Heat Wave",
+        "fr": "Canicule"
+    },
+    {
+        "id": 258,
+        "en": "Hail",
+        "fr": "Grêle"
+    },
+    {
+        "id": 259,
+        "en": "Torment",
+        "fr": "Tourmente"
+    },
+    {
+        "id": 260,
+        "en": "Flatter",
+        "fr": "Flatterie"
+    },
+    {
+        "id": 261,
+        "en": "Will-O-Wisp",
+        "fr": "Feu Follet"
+    },
+    {
+        "id": 262,
+        "en": "Memento",
+        "fr": "Souvenir"
+    },
+    {
+        "id": 263,
+        "en": "Facade",
+        "fr": "Façade"
+    },
+    {
+        "id": 264,
+        "en": "Focus Punch",
+        "fr": "Mitra-Poing"
+    },
+    {
+        "id": 265,
+        "en": "Smelling Salts",
+        "fr": "Stimulant"
+    },
+    {
+        "id": 266,
+        "en": "Follow Me",
+        "fr": "Par Ici"
+    },
+    {
+        "id": 267,
+        "en": "Nature Power",
+        "fr": "Force Nature"
+    },
+    {
+        "id": 268,
+        "en": "Charge",
+        "fr": "Chargeur"
+    },
+    {
+        "id": 269,
+        "en": "Taunt",
+        "fr": "Provoc"
+    },
+    {
+        "id": 270,
+        "en": "Helping Hand",
+        "fr": "Coup d'Main"
+    },
+    {
+        "id": 271,
+        "en": "Trick",
+        "fr": "Tour de Magie"
+    },
+    {
+        "id": 272,
+        "en": "Role Play",
+        "fr": "Imitation"
+    },
+    {
+        "id": 273,
+        "en": "Wish",
+        "fr": "Vœu"
+    },
+    {
+        "id": 274,
+        "en": "Assist",
+        "fr": "Assistance"
+    },
+    {
+        "id": 275,
+        "en": "Ingrain",
+        "fr": "Racines"
+    },
+    {
+        "id": 276,
+        "en": "Superpower",
+        "fr": "Surpuissance"
+    },
+    {
+        "id": 277,
+        "en": "Magic Coat",
+        "fr": "Reflet Magik"
+    },
+    {
+        "id": 278,
+        "en": "Recycle",
+        "fr": "Recyclage"
+    },
+    {
+        "id": 279,
+        "en": "Revenge",
+        "fr": "Vendetta"
+    },
+    {
+        "id": 280,
+        "en": "Brick Break",
+        "fr": "Casse-Brique"
+    },
+    {
+        "id": 281,
+        "en": "Yawn",
+        "fr": "Bâillement"
+    },
+    {
+        "id": 282,
+        "en": "Knock Off",
+        "fr": "Sabotage"
+    },
+    {
+        "id": 283,
+        "en": "Endeavor",
+        "fr": "Effort"
+    },
+    {
+        "id": 284,
+        "en": "Eruption",
+        "fr": "Éruption"
+    },
+    {
+        "id": 285,
+        "en": "Skill Swap",
+        "fr": "Échange"
+    },
+    {
+        "id": 286,
+        "en": "Imprison",
+        "fr": "Possessif"
+    },
+    {
+        "id": 287,
+        "en": "Refresh",
+        "fr": "Régénération"
+    },
+    {
+        "id": 288,
+        "en": "Grudge",
+        "fr": "Rancune"
+    },
+    {
+        "id": 289,
+        "en": "Snatch",
+        "fr": "Saisie"
+    },
+    {
+        "id": 290,
+        "en": "Secret Power",
+        "fr": "Force Cachée"
+    },
+    {
+        "id": 291,
+        "en": "Dive",
+        "fr": "Plongée"
+    },
+    {
+        "id": 292,
+        "en": "Arm Thrust",
+        "fr": "Cogne"
+    },
+    {
+        "id": 293,
+        "en": "Camouflage",
+        "fr": "Camouflage"
+    },
+    {
+        "id": 294,
+        "en": "Tail Glow",
+        "fr": "Lumi-Queue"
+    },
+    {
+        "id": 295,
+        "en": "Luster Purge",
+        "fr": "Lumi-Éclat"
+    },
+    {
+        "id": 296,
+        "en": "Mist Ball",
+        "fr": "Ball'Brume"
+    },
+    {
+        "id": 297,
+        "en": "Feather Dance",
+        "fr": "Danse Plumes"
+    },
+    {
+        "id": 298,
+        "en": "Teeter Dance",
+        "fr": "Danse Folle"
+    },
+    {
+        "id": 299,
+        "en": "Blaze Kick",
+        "fr": "Pied Brûleur"
+    },
+    {
+        "id": 300,
+        "en": "Mud Sport",
+        "fr": "Lance-Boue"
+    },
+    {
+        "id": 301,
+        "en": "Ice Ball",
+        "fr": "Ball'Glace"
+    },
+    {
+        "id": 302,
+        "en": "Needle Arm",
+        "fr": "Poing Dard"
+    },
+    {
+        "id": 303,
+        "en": "Slack Off",
+        "fr": "Paresse"
+    },
+    {
+        "id": 304,
+        "en": "Hyper Voice",
+        "fr": "Mégaphone"
+    },
+    {
+        "id": 305,
+        "en": "Poison Fang",
+        "fr": "Crochet Venin"
+    },
+    {
+        "id": 306,
+        "en": "Crush Claw",
+        "fr": "Éclate Griffe"
+    },
+    {
+        "id": 307,
+        "en": "Blast Burn",
+        "fr": "Rafale Feu"
+    },
+    {
+        "id": 308,
+        "en": "Hydro Cannon",
+        "fr": "Hydroblast"
+    },
+    {
+        "id": 309,
+        "en": "Meteor Mash",
+        "fr": "Poing Météore"
+    },
+    {
+        "id": 310,
+        "en": "Astonish",
+        "fr": "Étonnement"
+    },
+    {
+        "id": 311,
+        "en": "Weather Ball",
+        "fr": "Ball'Météo"
+    },
+    {
+        "id": 312,
+        "en": "Aromatherapy",
+        "fr": "Aromathérapie"
+    },
+    {
+        "id": 313,
+        "en": "Fake Tears",
+        "fr": "Croco Larme"
+    },
+    {
+        "id": 314,
+        "en": "Air Cutter",
+        "fr": "Tranch'Air"
+    },
+    {
+        "id": 315,
+        "en": "Overheat",
+        "fr": "Surchauffe"
+    },
+    {
+        "id": 316,
+        "en": "Odor Sleuth",
+        "fr": "Flair"
+    },
+    {
+        "id": 317,
+        "en": "Rock Tomb",
+        "fr": "Tomberoche"
+    },
+    {
+        "id": 318,
+        "en": "Silver Wind",
+        "fr": "Vent Argenté"
+    },
+    {
+        "id": 319,
+        "en": "Metal Sound",
+        "fr": "Strido-Son"
+    },
+    {
+        "id": 320,
+        "en": "Grass Whistle",
+        "fr": "Siffl'Herbe"
+    },
+    {
+        "id": 321,
+        "en": "Tickle",
+        "fr": "Chatouille"
+    },
+    {
+        "id": 322,
+        "en": "Cosmic Power",
+        "fr": "Force Cosmique"
+    },
+    {
+        "id": 323,
+        "en": "Water Spout",
+        "fr": "Giclédo"
+    },
+    {
+        "id": 324,
+        "en": "Signal Beam",
+        "fr": "Rayon Signal"
+    },
+    {
+        "id": 325,
+        "en": "Shadow Punch",
+        "fr": "Poing Ombre"
+    },
+    {
+        "id": 326,
+        "en": "Extrasensory",
+        "fr": "Extrasenseur"
+    },
+    {
+        "id": 327,
+        "en": "Sky Uppercut",
+        "fr": "Stratopercut"
+    },
+    {
+        "id": 328,
+        "en": "Sand Tomb",
+        "fr": "Tourbi-Sable"
+    },
+    {
+        "id": 329,
+        "en": "Sheer Cold",
+        "fr": "Glaciation"
+    },
+    {
+        "id": 330,
+        "en": "Muddy Water",
+        "fr": "Ocroupi"
+    },
+    {
+        "id": 331,
+        "en": "Bullet Seed",
+        "fr": "Balle Graine"
+    },
+    {
+        "id": 332,
+        "en": "Aerial Ace",
+        "fr": "Aéropique"
+    },
+    {
+        "id": 333,
+        "en": "Icicle Spear",
+        "fr": "Stalagtite"
+    },
+    {
+        "id": 334,
+        "en": "Iron Defense",
+        "fr": "Mur de Fer"
+    },
+    {
+        "id": 335,
+        "en": "Block",
+        "fr": "Barrage"
+    },
+    {
+        "id": 336,
+        "en": "Howl",
+        "fr": "Grondement"
+    },
+    {
+        "id": 337,
+        "en": "Dragon Claw",
+        "fr": "Draco-Griffe"
+    },
+    {
+        "id": 338,
+        "en": "Frenzy Plant",
+        "fr": "Végé-Attaque"
+    },
+    {
+        "id": 339,
+        "en": "Bulk Up",
+        "fr": "Gonflette"
+    },
+    {
+        "id": 340,
+        "en": "Bounce",
+        "fr": "Rebond"
+    },
+    {
+        "id": 341,
+        "en": "Mud Shot",
+        "fr": "Tir de Boue"
+    },
+    {
+        "id": 342,
+        "en": "Poison Tail",
+        "fr": "Queue-Poison"
+    },
+    {
+        "id": 343,
+        "en": "Covet",
+        "fr": "Implore"
+    },
+    {
+        "id": 344,
+        "en": "Volt Tackle",
+        "fr": "Électacle"
+    },
+    {
+        "id": 345,
+        "en": "Magical Leaf",
+        "fr": "Feuille Magik"
+    },
+    {
+        "id": 346,
+        "en": "Water Sport",
+        "fr": "Tourniquet"
+    },
+    {
+        "id": 347,
+        "en": "Calm Mind",
+        "fr": "Plénitude"
+    },
+    {
+        "id": 348,
+        "en": "Leaf Blade",
+        "fr": "Lame Feuille"
+    },
+    {
+        "id": 349,
+        "en": "Dragon Dance",
+        "fr": "Danse Draco"
+    },
+    {
+        "id": 350,
+        "en": "Rock Blast",
+        "fr": "Boule Roc"
+    },
+    {
+        "id": 351,
+        "en": "Shock Wave",
+        "fr": "Onde de Choc"
+    },
+    {
+        "id": 352,
+        "en": "Water Pulse",
+        "fr": "Vibraqua"
+    },
+    {
+        "id": 353,
+        "en": "Doom Desire",
+        "fr": "Vœu Destructeur"
+    },
+    {
+        "id": 354,
+        "en": "Psycho Boost",
+        "fr": "Psycho-Boost"
+    },
+    {
+        "id": 355,
+        "en": "Roost",
+        "fr": "Atterrissage"
+    },
+    {
+        "id": 356,
+        "en": "Gravity",
+        "fr": "Gravité"
+    },
+    {
+        "id": 357,
+        "en": "Miracle Eye",
+        "fr": "Œil Miracle"
+    },
+    {
+        "id": 358,
+        "en": "Wake-Up Slap",
+        "fr": "Réveil Forcé"
+    },
+    {
+        "id": 359,
+        "en": "Hammer Arm",
+        "fr": "Marto-Poing"
+    },
+    {
+        "id": 360,
+        "en": "Gyro Ball",
+        "fr": "Gyroballe"
+    },
+    {
+        "id": 361,
+        "en": "Healing Wish",
+        "fr": "Vœu Soin"
+    },
+    {
+        "id": 362,
+        "en": "Brine",
+        "fr": "Saumure"
+    },
+    {
+        "id": 363,
+        "en": "Natural Gift",
+        "fr": "Don Naturel"
+    },
+    {
+        "id": 364,
+        "en": "Feint",
+        "fr": "Ruse"
+    },
+    {
+        "id": 365,
+        "en": "Pluck",
+        "fr": "Picore"
+    },
+    {
+        "id": 366,
+        "en": "Tailwind",
+        "fr": "Vent Arrière"
+    },
+    {
+        "id": 367,
+        "en": "Acupressure",
+        "fr": "Acupression"
+    },
+    {
+        "id": 368,
+        "en": "Metal Burst",
+        "fr": "Fulmifer"
+    },
+    {
+        "id": 369,
+        "en": "U-turn",
+        "fr": "Demi-Tour"
+    },
+    {
+        "id": 370,
+        "en": "Close Combat",
+        "fr": "Close Combat"
+    },
+    {
+        "id": 371,
+        "en": "Payback",
+        "fr": "Représailles"
+    },
+    {
+        "id": 372,
+        "en": "Assurance",
+        "fr": "Assurance"
+    },
+    {
+        "id": 373,
+        "en": "Embargo",
+        "fr": "Embargo"
+    },
+    {
+        "id": 374,
+        "en": "Fling",
+        "fr": "Dégommage"
+    },
+    {
+        "id": 375,
+        "en": "Psycho Shift",
+        "fr": "Échange Psy"
+    },
+    {
+        "id": 376,
+        "en": "Trump Card",
+        "fr": "Atout"
+    },
+    {
+        "id": 377,
+        "en": "Heal Block",
+        "fr": "Anti-Soin"
+    },
+    {
+        "id": 378,
+        "en": "Wring Out",
+        "fr": "Essorage"
+    },
+    {
+        "id": 379,
+        "en": "Power Trick",
+        "fr": "Astuce Force"
+    },
+    {
+        "id": 380,
+        "en": "Gastro Acid",
+        "fr": "Suc Digestif"
+    },
+    {
+        "id": 381,
+        "en": "Lucky Chant",
+        "fr": "Air Veinard"
+    },
+    {
+        "id": 382,
+        "en": "Me First",
+        "fr": "Moi d'Abord"
+    },
+    {
+        "id": 383,
+        "en": "Copycat",
+        "fr": "Photocopie"
+    },
+    {
+        "id": 384,
+        "en": "Power Swap",
+        "fr": "Permuforce"
+    },
+    {
+        "id": 385,
+        "en": "Guard Swap",
+        "fr": "Permugarde"
+    },
+    {
+        "id": 386,
+        "en": "Punishment",
+        "fr": "Punition"
+    },
+    {
+        "id": 387,
+        "en": "Last Resort",
+        "fr": "Dernier Recours"
+    },
+    {
+        "id": 388,
+        "en": "Worry Seed",
+        "fr": "Soucigraine"
+    },
+    {
+        "id": 389,
+        "en": "Sucker Punch",
+        "fr": "Coup Bas"
+    },
+    {
+        "id": 390,
+        "en": "Toxic Spikes",
+        "fr": "Pics Toxik"
+    },
+    {
+        "id": 391,
+        "en": "Heart Swap",
+        "fr": "Permucœur"
+    },
+    {
+        "id": 392,
+        "en": "Aqua Ring",
+        "fr": "Anneau Hydro"
+    },
+    {
+        "id": 393,
+        "en": "Magnet Rise",
+        "fr": "Vol Magnétik"
+    },
+    {
+        "id": 394,
+        "en": "Flare Blitz",
+        "fr": "Boutefeu"
+    },
+    {
+        "id": 395,
+        "en": "Force Palm",
+        "fr": "Forte-Paume"
+    },
+    {
+        "id": 396,
+        "en": "Aura Sphere",
+        "fr": "Aurasphère"
+    },
+    {
+        "id": 397,
+        "en": "Rock Polish",
+        "fr": "Poliroche"
+    },
+    {
+        "id": 398,
+        "en": "Poison Jab",
+        "fr": "Direct Toxik"
+    },
+    {
+        "id": 399,
+        "en": "Dark Pulse",
+        "fr": "Vibrobscur"
+    },
+    {
+        "id": 400,
+        "en": "Night Slash",
+        "fr": "Tranche-Nuit"
+    },
+    {
+        "id": 401,
+        "en": "Aqua Tail",
+        "fr": "Hydro-Queue"
+    },
+    {
+        "id": 402,
+        "en": "Seed Bomb",
+        "fr": "Canon Graine"
+    },
+    {
+        "id": 403,
+        "en": "Air Slash",
+        "fr": "Lame d'Air"
+    },
+    {
+        "id": 404,
+        "en": "X-Scissor",
+        "fr": "Plaie Croix"
+    },
+    {
+        "id": 405,
+        "en": "Bug Buzz",
+        "fr": "Bourdon"
+    },
+    {
+        "id": 406,
+        "en": "Dragon Pulse",
+        "fr": "Draco-Choc"
+    },
+    {
+        "id": 407,
+        "en": "Dragon Rush",
+        "fr": "Draco-Charge"
+    },
+    {
+        "id": 408,
+        "en": "Power Gem",
+        "fr": "Rayon Gemme"
+    },
+    {
+        "id": 409,
+        "en": "Drain Punch",
+        "fr": "Vampi-Poing"
+    },
+    {
+        "id": 410,
+        "en": "Vacuum Wave",
+        "fr": "Onde Vide"
+    },
+    {
+        "id": 411,
+        "en": "Focus Blast",
+        "fr": "Exploforce"
+    },
+    {
+        "id": 412,
+        "en": "Energy Ball",
+        "fr": "Éco-Sphère"
+    },
+    {
+        "id": 413,
+        "en": "Brave Bird",
+        "fr": "Rapace"
+    },
+    {
+        "id": 414,
+        "en": "Earth Power",
+        "fr": "Telluriforce"
+    },
+    {
+        "id": 415,
+        "en": "Switcheroo",
+        "fr": "Passe-Passe"
+    },
+    {
+        "id": 416,
+        "en": "Giga Impact",
+        "fr": "Giga Impact"
+    },
+    {
+        "id": 417,
+        "en": "Nasty Plot",
+        "fr": "Machination"
+    },
+    {
+        "id": 418,
+        "en": "Bullet Punch",
+        "fr": "Pisto-Poing"
+    },
+    {
+        "id": 419,
+        "en": "Avalanche",
+        "fr": "Avalanche"
+    },
+    {
+        "id": 420,
+        "en": "Ice Shard",
+        "fr": "Éclats Glace"
+    },
+    {
+        "id": 421,
+        "en": "Shadow Claw",
+        "fr": "Griffe Ombre"
+    },
+    {
+        "id": 422,
+        "en": "Thunder Fang",
+        "fr": "Crocs Éclair"
+    },
+    {
+        "id": 423,
+        "en": "Ice Fang",
+        "fr": "Crocs Givre"
+    },
+    {
+        "id": 424,
+        "en": "Fire Fang",
+        "fr": "Crocs Feu"
+    },
+    {
+        "id": 425,
+        "en": "Shadow Sneak",
+        "fr": "Ombre Portée"
+    },
+    {
+        "id": 426,
+        "en": "Mud Bomb",
+        "fr": "Boue-Bombe"
+    },
+    {
+        "id": 427,
+        "en": "Psycho Cut",
+        "fr": "Coupe Psycho"
+    },
+    {
+        "id": 428,
+        "en": "Zen Headbutt",
+        "fr": "Psykoud'Boul"
+    },
+    {
+        "id": 429,
+        "en": "Mirror Shot",
+        "fr": "Miroi-Tir"
+    },
+    {
+        "id": 430,
+        "en": "Flash Cannon",
+        "fr": "Luminocanon"
+    },
+    {
+        "id": 431,
+        "en": "Rock Climb",
+        "fr": "Escalade"
+    },
+    {
+        "id": 432,
+        "en": "Defog",
+        "fr": "Anti-Brume"
+    },
+    {
+        "id": 433,
+        "en": "Trick Room",
+        "fr": "Distorsion"
+    },
+    {
+        "id": 434,
+        "en": "Draco Meteor",
+        "fr": "Draco-Météore"
+    },
+    {
+        "id": 435,
+        "en": "Discharge",
+        "fr": "Coup d'Jus"
+    },
+    {
+        "id": 436,
+        "en": "Lava Plume",
+        "fr": "Ébullilave"
+    },
+    {
+        "id": 437,
+        "en": "Leaf Storm",
+        "fr": "Tempête Verte"
+    },
+    {
+        "id": 438,
+        "en": "Power Whip",
+        "fr": "Mégafouet"
+    },
+    {
+        "id": 439,
+        "en": "Rock Wrecker",
+        "fr": "Roc-Boulet"
+    },
+    {
+        "id": 440,
+        "en": "Cross Poison",
+        "fr": "Poison Croix"
+    },
+    {
+        "id": 441,
+        "en": "Gunk Shot",
+        "fr": "Détricanon"
+    },
+    {
+        "id": 442,
+        "en": "Iron Head",
+        "fr": "Tête de Fer"
+    },
+    {
+        "id": 443,
+        "en": "Magnet Bomb",
+        "fr": "Bombe Aimant"
+    },
+    {
+        "id": 444,
+        "en": "Stone Edge",
+        "fr": "Lame de Roc"
+    },
+    {
+        "id": 445,
+        "en": "Captivate",
+        "fr": "Séduction"
+    },
+    {
+        "id": 446,
+        "en": "Stealth Rock",
+        "fr": "Piège de Roc"
+    },
+    {
+        "id": 447,
+        "en": "Grass Knot",
+        "fr": "Nœud Herbe"
+    },
+    {
+        "id": 448,
+        "en": "Chatter",
+        "fr": "Babil"
+    },
+    {
+        "id": 449,
+        "en": "Judgment",
+        "fr": "Jugement"
+    },
+    {
+        "id": 450,
+        "en": "Bug Bite",
+        "fr": "Piqûre"
+    },
+    {
+        "id": 451,
+        "en": "Charge Beam",
+        "fr": "Rayon Chargé"
+    },
+    {
+        "id": 452,
+        "en": "Wood Hammer",
+        "fr": "Martobois"
+    },
+    {
+        "id": 453,
+        "en": "Aqua Jet",
+        "fr": "Aqua-Jet"
+    },
+    {
+        "id": 454,
+        "en": "Attack Order",
+        "fr": "Appel Attak"
+    },
+    {
+        "id": 455,
+        "en": "Defend Order",
+        "fr": "Appel Défense"
+    },
+    {
+        "id": 456,
+        "en": "Heal Order",
+        "fr": "Appel Soins"
+    },
+    {
+        "id": 457,
+        "en": "Head Smash",
+        "fr": "Fracass'Tête"
+    },
+    {
+        "id": 458,
+        "en": "Double Hit",
+        "fr": "Coup Double"
+    },
+    {
+        "id": 459,
+        "en": "Roar of Time",
+        "fr": "Hurle-Temps"
+    },
+    {
+        "id": 460,
+        "en": "Spacial Rend",
+        "fr": "Spatio-Rift"
+    },
+    {
+        "id": 461,
+        "en": "Lunar Dance",
+        "fr": "Danse Lune"
+    },
+    {
+        "id": 462,
+        "en": "Crush Grip",
+        "fr": "Presse"
+    },
+    {
+        "id": 463,
+        "en": "Magma Storm",
+        "fr": "Vortex Magma"
+    },
+    {
+        "id": 464,
+        "en": "Dark Void",
+        "fr": "Trou Noir"
+    },
+    {
+        "id": 465,
+        "en": "Seed Flare",
+        "fr": "Fulmigraine"
+    },
+    {
+        "id": 466,
+        "en": "Ominous Wind",
+        "fr": "Vent Mauvais"
+    },
+    {
+        "id": 467,
+        "en": "Shadow Force",
+        "fr": "Revenant"
+    },
+    {
+        "id": 468,
+        "en": "Hone Claws",
+        "fr": "Aiguisage"
+    },
+    {
+        "id": 469,
+        "en": "Wide Guard",
+        "fr": "Garde Large"
+    },
+    {
+        "id": 470,
+        "en": "Guard Split",
+        "fr": "Partage Garde"
+    },
+    {
+        "id": 471,
+        "en": "Power Split",
+        "fr": "Partage Force"
+    },
+    {
+        "id": 472,
+        "en": "Wonder Room",
+        "fr": "Zone Étrange"
+    },
+    {
+        "id": 473,
+        "en": "Psyshock",
+        "fr": "Choc Psy"
+    },
+    {
+        "id": 474,
+        "en": "Venoshock",
+        "fr": "Choc Venin"
+    },
+    {
+        "id": 475,
+        "en": "Autotomize",
+        "fr": "Allègement"
+    },
+    {
+        "id": 476,
+        "en": "Rage Powder",
+        "fr": "Poudre Fureur"
+    },
+    {
+        "id": 477,
+        "en": "Telekinesis",
+        "fr": "Lévikinésie"
+    },
+    {
+        "id": 478,
+        "en": "Magic Room",
+        "fr": "Zone Magique"
+    },
+    {
+        "id": 479,
+        "en": "Smack Down",
+        "fr": "Anti-Air"
+    },
+    {
+        "id": 480,
+        "en": "Storm Throw",
+        "fr": "Yama Arashi"
+    },
+    {
+        "id": 481,
+        "en": "Flame Burst",
+        "fr": "Rebondifeu"
+    },
+    {
+        "id": 482,
+        "en": "Sludge Wave",
+        "fr": "Cradovague"
+    },
+    {
+        "id": 483,
+        "en": "Quiver Dance",
+        "fr": "Papillodanse"
+    },
+    {
+        "id": 484,
+        "en": "Heavy Slam",
+        "fr": "Tacle Lourd"
+    },
+    {
+        "id": 485,
+        "en": "Synchronoise",
+        "fr": "Synchropeine"
+    },
+    {
+        "id": 486,
+        "en": "Electro Ball",
+        "fr": "Boule Élek"
+    },
+    {
+        "id": 487,
+        "en": "Soak",
+        "fr": "Détrempage"
+    },
+    {
+        "id": 488,
+        "en": "Flame Charge",
+        "fr": "Nitrocharge"
+    },
+    {
+        "id": 489,
+        "en": "Coil",
+        "fr": "Enroulement"
+    },
+    {
+        "id": 490,
+        "en": "Low Sweep",
+        "fr": "Balayette"
+    },
+    {
+        "id": 491,
+        "en": "Acid Spray",
+        "fr": "Bombe Acide"
+    },
+    {
+        "id": 492,
+        "en": "Foul Play",
+        "fr": "Tricherie"
+    },
+    {
+        "id": 493,
+        "en": "Simple Beam",
+        "fr": "Rayon Simple"
+    },
+    {
+        "id": 494,
+        "en": "Entrainment",
+        "fr": "Ten-Danse"
+    },
+    {
+        "id": 495,
+        "en": "After You",
+        "fr": "Après Vous"
+    },
+    {
+        "id": 496,
+        "en": "Round",
+        "fr": "Chant Canon"
+    },
+    {
+        "id": 497,
+        "en": "Echoed Voice",
+        "fr": "Écho"
+    },
+    {
+        "id": 498,
+        "en": "Chip Away",
+        "fr": "Attrition"
+    },
+    {
+        "id": 499,
+        "en": "Clear Smog",
+        "fr": "Bain de Smog"
+    },
+    {
+        "id": 500,
+        "en": "Stored Power",
+        "fr": "Force Ajoutée"
+    },
+    {
+        "id": 501,
+        "en": "Quick Guard",
+        "fr": "Prévention"
+    },
+    {
+        "id": 502,
+        "en": "Ally Switch",
+        "fr": "Interversion"
+    },
+    {
+        "id": 503,
+        "en": "Scald",
+        "fr": "Ébullition"
+    },
+    {
+        "id": 504,
+        "en": "Shell Smash",
+        "fr": "Exuviation"
+    },
+    {
+        "id": 505,
+        "en": "Heal Pulse",
+        "fr": "Vibra Soin"
+    },
+    {
+        "id": 506,
+        "en": "Hex",
+        "fr": "Châtiment"
+    },
+    {
+        "id": 507,
+        "en": "Sky Drop",
+        "fr": "Chute Libre"
+    },
+    {
+        "id": 508,
+        "en": "Shift Gear",
+        "fr": "Chgt Vitesse"
+    },
+    {
+        "id": 509,
+        "en": "Circle Throw",
+        "fr": "Projection"
+    },
+    {
+        "id": 510,
+        "en": "Incinerate",
+        "fr": "Calcination"
+    },
+    {
+        "id": 511,
+        "en": "Quash",
+        "fr": "À la Queue"
+    },
+    {
+        "id": 512,
+        "en": "Acrobatics",
+        "fr": "Acrobatie"
+    },
+    {
+        "id": 513,
+        "en": "Reflect Type",
+        "fr": "Copie-Type"
+    },
+    {
+        "id": 514,
+        "en": "Retaliate",
+        "fr": "Vengeance"
+    },
+    {
+        "id": 515,
+        "en": "Final Gambit",
+        "fr": "Tout ou Rien"
+    },
+    {
+        "id": 516,
+        "en": "Bestow",
+        "fr": "Passe-Cadeau"
+    },
+    {
+        "id": 517,
+        "en": "Inferno",
+        "fr": "Feu d'Enfer"
+    },
+    {
+        "id": 518,
+        "en": "Water Pledge",
+        "fr": "Aire d'Eau"
+    },
+    {
+        "id": 519,
+        "en": "Fire Pledge",
+        "fr": "Aire de Feu"
+    },
+    {
+        "id": 520,
+        "en": "Grass Pledge",
+        "fr": "Aire d'Herbe"
+    },
+    {
+        "id": 521,
+        "en": "Volt Switch",
+        "fr": "Change Éclair"
+    },
+    {
+        "id": 522,
+        "en": "Struggle Bug",
+        "fr": "Survinsecte"
+    },
+    {
+        "id": 523,
+        "en": "Bulldoze",
+        "fr": "Piétisol"
+    },
+    {
+        "id": 524,
+        "en": "Frost Breath",
+        "fr": "Souffle Glacé"
+    },
+    {
+        "id": 525,
+        "en": "Dragon Tail",
+        "fr": "Draco-Queue"
+    },
+    {
+        "id": 526,
+        "en": "Work Up",
+        "fr": "Rengorgement"
+    },
+    {
+        "id": 527,
+        "en": "Electroweb",
+        "fr": "Toile Élek"
+    },
+    {
+        "id": 528,
+        "en": "Wild Charge",
+        "fr": "Éclair Fou"
+    },
+    {
+        "id": 529,
+        "en": "Drill Run",
+        "fr": "Tunnelier"
+    },
+    {
+        "id": 530,
+        "en": "Dual Chop",
+        "fr": "Double Baffe"
+    },
+    {
+        "id": 531,
+        "en": "Heart Stamp",
+        "fr": "Crèvecœur"
+    },
+    {
+        "id": 532,
+        "en": "Horn Leech",
+        "fr": "Encornebois"
+    },
+    {
+        "id": 533,
+        "en": "Sacred Sword",
+        "fr": "Lame Sainte"
+    },
+    {
+        "id": 534,
+        "en": "Razor Shell",
+        "fr": "Coqui-Lame"
+    },
+    {
+        "id": 535,
+        "en": "Heat Crash",
+        "fr": "Tacle Feu"
+    },
+    {
+        "id": 536,
+        "en": "Leaf Tornado",
+        "fr": "Phytomixeur"
+    },
+    {
+        "id": 537,
+        "en": "Steamroller",
+        "fr": "Bulldoboule"
+    },
+    {
+        "id": 538,
+        "en": "Cotton Guard",
+        "fr": "Cotogarde"
+    },
+    {
+        "id": 539,
+        "en": "Night Daze",
+        "fr": "Explonuit"
+    },
+    {
+        "id": 540,
+        "en": "Psystrike",
+        "fr": "Frappe Psy"
+    },
+    {
+        "id": 541,
+        "en": "Tail Slap",
+        "fr": "Plumo-Queue"
+    },
+    {
+        "id": 542,
+        "en": "Hurricane",
+        "fr": "Vent Violent"
+    },
+    {
+        "id": 543,
+        "en": "Head Charge",
+        "fr": "Peignée"
+    },
+    {
+        "id": 544,
+        "en": "Gear Grind",
+        "fr": "Lancécrou"
+    },
+    {
+        "id": 545,
+        "en": "Searing Shot",
+        "fr": "Incendie"
+    },
+    {
+        "id": 546,
+        "en": "Techno Blast",
+        "fr": "Techno-Buster"
+    },
+    {
+        "id": 547,
+        "en": "Relic Song",
+        "fr": "Chant Antique"
+    },
+    {
+        "id": 548,
+        "en": "Secret Sword",
+        "fr": "Lame Ouinte"
+    },
+    {
+        "id": 549,
+        "en": "Glaciate",
+        "fr": "Ère Glaciaire"
+    },
+    {
+        "id": 550,
+        "en": "Bolt Strike",
+        "fr": "Charge Foudre"
+    },
+    {
+        "id": 551,
+        "en": "Blue Flare",
+        "fr": "Flamme Bleue"
+    },
+    {
+        "id": 552,
+        "en": "Fiery Dance",
+        "fr": "Danse du Feu"
+    },
+    {
+        "id": 553,
+        "en": "Freeze Shock",
+        "fr": "Éclair Gelé"
+    },
+    {
+        "id": 554,
+        "en": "Ice Burn",
+        "fr": "Feu Glacé"
+    },
+    {
+        "id": 555,
+        "en": "Snarl",
+        "fr": "Aboiement"
+    },
+    {
+        "id": 556,
+        "en": "Icicle Crash",
+        "fr": "Chute Glace"
+    },
+    {
+        "id": 557,
+        "en": "V-create",
+        "fr": "Coup Victoire"
+    },
+    {
+        "id": 558,
+        "en": "Fusion Flare",
+        "fr": "Flamme Croix"
+    },
+    {
+        "id": 559,
+        "en": "Fusion Bolt",
+        "fr": "Éclair Croix"
+    },
+    {
+        "id": 560,
+        "en": "Flying Press",
+        "fr": "Flying Press"
+    },
+    {
+        "id": 561,
+        "en": "Mat Block",
+        "fr": "Tatamigaeshi"
+    },
+    {
+        "id": 562,
+        "en": "Belch",
+        "fr": "Éructation"
+    },
+    {
+        "id": 563,
+        "en": "Rototiller",
+        "fr": "Fertilisation"
+    },
+    {
+        "id": 564,
+        "en": "Sticky Web",
+        "fr": "Toile Gluante"
+    },
+    {
+        "id": 565,
+        "en": "Fell Stinger",
+        "fr": "Dard Mortel"
+    },
+    {
+        "id": 566,
+        "en": "Phantom Force",
+        "fr": "Hantise"
+    },
+    {
+        "id": 567,
+        "en": "Trick-or-Treat",
+        "fr": "Halloween"
+    },
+    {
+        "id": 568,
+        "en": "Noble Roar",
+        "fr": "Râle Mâle"
+    },
+    {
+        "id": 569,
+        "en": "Ion Deluge",
+        "fr": "Déluge Plasmique"
+    },
+    {
+        "id": 570,
+        "en": "Parabolic Charge",
+        "fr": "Parabocharge"
+    },
+    {
+        "id": 571,
+        "en": "Forest's Curse",
+        "fr": "Maléfice Sylvain"
+    },
+    {
+        "id": 572,
+        "en": "Petal Blizzard",
+        "fr": "Tempête Florale"
+    },
+    {
+        "id": 573,
+        "en": "Freeze-Dry",
+        "fr": "Lyophilisation"
+    },
+    {
+        "id": 574,
+        "en": "Disarming Voice",
+        "fr": "Voix Enjôleuse"
+    },
+    {
+        "id": 575,
+        "en": "Parting Shot",
+        "fr": "Dernier Mot"
+    },
+    {
+        "id": 576,
+        "en": "Topsy-Turvy",
+        "fr": "Renversement"
+    },
+    {
+        "id": 577,
+        "en": "Draining Kiss",
+        "fr": "Vampibaiser"
+    },
+    {
+        "id": 578,
+        "en": "Crafty Shield",
+        "fr": "Vigilance"
+    },
+    {
+        "id": 579,
+        "en": "Flower Shield",
+        "fr": "Garde Florale"
+    },
+    {
+        "id": 580,
+        "en": "Grassy Terrain",
+        "fr": "Champ Herbu"
+    },
+    {
+        "id": 581,
+        "en": "Misty Terrain",
+        "fr": "Champ Brumeux"
+    },
+    {
+        "id": 582,
+        "en": "Electrify",
+        "fr": "Électrisation"
+    },
+    {
+        "id": 583,
+        "en": "Play Rough",
+        "fr": "Câlinerie"
+    },
+    {
+        "id": 584,
+        "en": "Fairy Wind",
+        "fr": "Vent Féérique"
+    },
+    {
+        "id": 585,
+        "en": "Moonblast",
+        "fr": "Pouvoir Lunaire"
+    },
+    {
+        "id": 586,
+        "en": "Boomburst",
+        "fr": "Bang Sonique"
+    },
+    {
+        "id": 587,
+        "en": "Fairy Lock",
+        "fr": "Verrou Enchanté"
+    },
+    {
+        "id": 588,
+        "en": "King's Shield",
+        "fr": "Bouclier Royal"
+    },
+    {
+        "id": 589,
+        "en": "Play Nice",
+        "fr": "Camaraderie"
+    },
+    {
+        "id": 590,
+        "en": "Confide",
+        "fr": "Confidence"
+    },
+    {
+        "id": 591,
+        "en": "Diamond Storm",
+        "fr": "Orage Adamantin"
+    },
+    {
+        "id": 592,
+        "en": "Steam Eruption",
+        "fr": "Jet de Vapeur"
+    },
+    {
+        "id": 593,
+        "en": "Hyperspace Hole",
+        "fr": "TrouDimensionnel"
+    },
+    {
+        "id": 594,
+        "en": "Water Shuriken",
+        "fr": "Sheauriken"
+    },
+    {
+        "id": 595,
+        "en": "Mystical Fire",
+        "fr": "Feu Ensorcelé"
+    },
+    {
+        "id": 596,
+        "en": "Spiky Shield",
+        "fr": "Pico-Défense"
+    },
+    {
+        "id": 597,
+        "en": "Aromatic Mist",
+        "fr": "Brume Capiteuse"
+    },
+    {
+        "id": 598,
+        "en": "Eerie Impulse",
+        "fr": "Ondes Étranges"
+    },
+    {
+        "id": 599,
+        "en": "Venom Drench",
+        "fr": "Piège de Venin"
+    },
+    {
+        "id": 600,
+        "en": "Powder",
+        "fr": "Nuée de Poudre"
+    },
+    {
+        "id": 601,
+        "en": "Geomancy",
+        "fr": "Géo-Contrôle"
+    },
+    {
+        "id": 602,
+        "en": "Magnetic Flux",
+        "fr": "Magné-Contrôle"
+    },
+    {
+        "id": 603,
+        "en": "Happy Hour",
+        "fr": "Étrennes"
+    },
+    {
+        "id": 604,
+        "en": "Electric Terrain",
+        "fr": "Champ Électrifié"
+    },
+    {
+        "id": 605,
+        "en": "Dazzling Gleam",
+        "fr": "Éclat Magique"
+    },
+    {
+        "id": 606,
+        "en": "Celebrate",
+        "fr": "Célébration"
+    },
+    {
+        "id": 607,
+        "en": "Hold Hands",
+        "fr": "Mains Jointes"
+    },
+    {
+        "id": 608,
+        "en": "Baby-Doll Eyes",
+        "fr": "Regard Touchant"
+    },
+    {
+        "id": 609,
+        "en": "Nuzzle",
+        "fr": "Frotte-Frimousse"
+    },
+    {
+        "id": 610,
+        "en": "Hold Back",
+        "fr": "Retenue"
+    },
+    {
+        "id": 611,
+        "en": "Infestation",
+        "fr": "Harcèlement"
+    },
+    {
+        "id": 612,
+        "en": "Power-Up Punch",
+        "fr": "Poing Boost"
+    },
+    {
+        "id": 613,
+        "en": "Oblivion Wing",
+        "fr": "Mort'Ailes"
+    },
+    {
+        "id": 614,
+        "en": "Thousand Arrows",
+        "fr": "Myria-Flèches"
+    },
+    {
+        "id": 615,
+        "en": "Thousand Waves",
+        "fr": "Myria-Vagues"
+    },
+    {
+        "id": 616,
+        "en": "Land's Wrath",
+        "fr": "Force Chtonienne"
+    },
+    {
+        "id": 617,
+        "en": "Light of Ruin",
+        "fr": "Lumière du Néant"
+    },
+    {
+        "id": 618,
+        "en": "Origin Pulse",
+        "fr": "Onde Originelle"
+    },
+    {
+        "id": 619,
+        "en": "Precipice Blades",
+        "fr": "Lame Pangéenne"
+    },
+    {
+        "id": 620,
+        "en": "Dragon Ascent",
+        "fr": "Draco-Ascension"
+    },
+    {
+        "id": 621,
+        "en": "Hyperspace Fury",
+        "fr": "Furie Dimension"
+    },
+    {
+        "id": 659,
+        "en": "Shore Up",
+        "fr": "Amass'Sable"
+    },
+    {
+        "id": 660,
+        "en": "First Impression",
+        "fr": "Escarmouche"
+    },
+    {
+        "id": 661,
+        "en": "Baneful Bunker",
+        "fr": "Blockhaus"
+    },
+    {
+        "id": 662,
+        "en": "Spirit Shackle",
+        "fr": "Tisse Ombre"
+    },
+    {
+        "id": 663,
+        "en": "Darkest Lariat",
+        "fr": "Dark Lariat"
+    },
+    {
+        "id": 664,
+        "en": "Sparkling Aria",
+        "fr": "Aria de l'Écume"
+    },
+    {
+        "id": 665,
+        "en": "Ice Hammer",
+        "fr": "Marteau de Glace"
+    },
+    {
+        "id": 666,
+        "en": "Floral Healing",
+        "fr": "Soin Floral"
+    },
+    {
+        "id": 667,
+        "en": "High Horsepower",
+        "fr": "Cavalerie Lourde"
+    },
+    {
+        "id": 668,
+        "en": "Strength Sap",
+        "fr": "Vole-Force"
+    },
+    {
+        "id": 669,
+        "en": "Solar Blade",
+        "fr": "Lame Solaire"
+    },
+    {
+        "id": 670,
+        "en": "Leafage",
+        "fr": "Feuillage"
+    },
+    {
+        "id": 671,
+        "en": "Spotlight",
+        "fr": "Projecteur"
+    },
+    {
+        "id": 672,
+        "en": "Toxic Thread",
+        "fr": "Fil Toxique"
+    },
+    {
+        "id": 673,
+        "en": "Laser Focus",
+        "fr": "Affilage"
+    },
+    {
+        "id": 674,
+        "en": "Gear Up",
+        "fr": "Engrenage"
+    },
+    {
+        "id": 675,
+        "en": "Throat Chop",
+        "fr": "Exécu-Son"
+    },
+    {
+        "id": 676,
+        "en": "Pollen Puff",
+        "fr": "Boule Pollen"
+    },
+    {
+        "id": 677,
+        "en": "Anchor Shot",
+        "fr": "Ancrage"
+    },
+    {
+        "id": 678,
+        "en": "Psychic Terrain",
+        "fr": "Champ Psychique"
+    },
+    {
+        "id": 679,
+        "en": "Lunge",
+        "fr": "Furie-Bond"
+    },
+    {
+        "id": 680,
+        "en": "Fire Lash",
+        "fr": "Fouet de Feu"
+    },
+    {
+        "id": 681,
+        "en": "Power Trip",
+        "fr": "Arrogance"
+    },
+    {
+        "id": 682,
+        "en": "Burn Up",
+        "fr": "Flamme Ultime"
+    },
+    {
+        "id": 683,
+        "en": "Speed Swap",
+        "fr": "Permuvitesse"
+    },
+    {
+        "id": 684,
+        "en": "Smart Strike",
+        "fr": "Estocorne"
+    },
+    {
+        "id": 685,
+        "en": "Purify",
+        "fr": "Purification"
+    },
+    {
+        "id": 686,
+        "en": "Revelation Dance",
+        "fr": "Danse Éveil"
+    },
+    {
+        "id": 687,
+        "en": "Core Enforcer",
+        "fr": "Sanction Suprême"
+    },
+    {
+        "id": 688,
+        "en": "Trop Kick",
+        "fr": "Botte Sucrette"
+    },
+    {
+        "id": 689,
+        "en": "Instruct",
+        "fr": "Sommation"
+    },
+    {
+        "id": 690,
+        "en": "Beak Blast",
+        "fr": "Bec-Canon"
+    },
+    {
+        "id": 691,
+        "en": "Clanging Scales",
+        "fr": "Vibrécaille"
+    },
+    {
+        "id": 692,
+        "en": "Dragon Hammer",
+        "fr": "Draco-Marteau"
+    },
+    {
+        "id": 693,
+        "en": "Brutal Swing",
+        "fr": "Centrifugifle"
+    },
+    {
+        "id": 694,
+        "en": "Aurora Veil",
+        "fr": "Voile Aurore"
+    },
+    {
+        "id": 704,
+        "en": "Shell Trap",
+        "fr": "Carapiège"
+    },
+    {
+        "id": 705,
+        "en": "Fleur Cannon",
+        "fr": "Canon Floral"
+    },
+    {
+        "id": 706,
+        "en": "Psychic Fangs",
+        "fr": "Psycho-Croc"
+    },
+    {
+        "id": 707,
+        "en": "Stomping Tantrum",
+        "fr": "Trépignement"
+    },
+    {
+        "id": 708,
+        "en": "Shadow Bone",
+        "fr": "Os Ombre"
+    },
+    {
+        "id": 709,
+        "en": "Accelerock",
+        "fr": "Vif Roc"
+    },
+    {
+        "id": 710,
+        "en": "Liquidation",
+        "fr": "Aqua-Brèche"
+    },
+    {
+        "id": 711,
+        "en": "Prismatic Laser",
+        "fr": "Laser Prisme"
+    },
+    {
+        "id": 712,
+        "en": "Spectral Thief",
+        "fr": "Clepto-Mânes"
+    },
+    {
+        "id": 713,
+        "en": "Sunsteel Strike",
+        "fr": "Choc Météore"
+    },
+    {
+        "id": 714,
+        "en": "Moongeist Beam",
+        "fr": "Rayon Spectral"
+    },
+    {
+        "id": 715,
+        "en": "Tearful Look",
+        "fr": "Larme à l'Œil"
+    },
+    {
+        "id": 716,
+        "en": "Zing Zap",
+        "fr": "Électrikipik"
+    },
+    {
+        "id": 717,
+        "en": "Nature's Madness",
+        "fr": "Ire de la Nature"
+    },
+    {
+        "id": 718,
+        "en": "Multi-Attack",
+        "fr": "Coup Varia-Type"
+    },
+    {
+        "id": 720,
+        "en": "Mind Blown",
+        "fr": "Caboche-Kaboum"
+    },
+    {
+        "id": 721,
+        "en": "Plasma Fists",
+        "fr": "Plasma Punch"
+    },
+    {
+        "id": 722,
+        "en": "Photon Geyser",
+        "fr": "Photo-Geyser"
+    },
+    {
+        "id": 729,
+        "en": "Zippy Zap",
+        "fr": "Pika-Sprint"
+    },
+    {
+        "id": 730,
+        "en": "Splishy Splash",
+        "fr": "Pika-Splash"
+    },
+    {
+        "id": 731,
+        "en": "Floaty Fall",
+        "fr": "Pika-Piqué"
+    },
+    {
+        "id": 732,
+        "en": "Pika Papow",
+        "fr": "Pika-Fracas"
+    },
+    {
+        "id": 733,
+        "en": "Bouncy Bubble",
+        "fr": "Évo-Thalasso"
+    },
+    {
+        "id": 734,
+        "en": "Buzzy Buzz",
+        "fr": "Évo-Dynamo"
+    },
+    {
+        "id": 735,
+        "en": "Sizzly Slide",
+        "fr": "Évo-Flambo"
+    },
+    {
+        "id": 736,
+        "en": "Glitzy Glow",
+        "fr": "Évo-Psycho"
+    },
+    {
+        "id": 737,
+        "en": "Baddy Bad",
+        "fr": "Évo-Ténébro"
+    },
+    {
+        "id": 738,
+        "en": "Sappy Seed",
+        "fr": "Évo-Écolo"
+    },
+    {
+        "id": 739,
+        "en": "Freezy Frost",
+        "fr": "Évo-Congélo"
+    },
+    {
+        "id": 740,
+        "en": "Sparkly Swirl",
+        "fr": "Évo-Fabulo"
+    },
+    {
+        "id": 741,
+        "en": "Veevee Volley",
+        "fr": "Évo-Chardasso"
+    },
+    {
+        "id": 742,
+        "en": "Double Iron Bash",
+        "fr": "Écrous d'Poing"
+    },
+    {
+        "id": 743,
+        "en": "Max Guard",
+        "fr": "Gardomax"
+    },
+    {
+        "id": 744,
+        "en": "Dynamax Cannon",
+        "fr": "Canon Dynamax"
+    },
+    {
+        "id": 745,
+        "en": "Snipe Shot",
+        "fr": "Tir de Précision"
+    },
+    {
+        "id": 746,
+        "en": "Jaw Lock",
+        "fr": "Croque Fort"
+    },
+    {
+        "id": 747,
+        "en": "Stuff Cheeks",
+        "fr": "Garde-à-Joues"
+    },
+    {
+        "id": 748,
+        "en": "No Retreat",
+        "fr": "Ultime Bastion"
+    },
+    {
+        "id": 749,
+        "en": "Tar Shot",
+        "fr": "Goudronnage"
+    },
+    {
+        "id": 750,
+        "en": "Magic Powder",
+        "fr": "Poudre Magique"
+    },
+    {
+        "id": 751,
+        "en": "Dragon Darts",
+        "fr": "Draco-Flèches"
+    },
+    {
+        "id": 752,
+        "en": "Teatime",
+        "fr": "Thérémonie"
+    },
+    {
+        "id": 753,
+        "en": "Octolock",
+        "fr": "Octoprise"
+    },
+    {
+        "id": 754,
+        "en": "Bolt Beak",
+        "fr": "Prise de Bec"
+    },
+    {
+        "id": 755,
+        "en": "Fishious Rend",
+        "fr": "Branchicrok"
+    },
+    {
+        "id": 756,
+        "en": "Court Change",
+        "fr": "Change-Côté"
+    },
+    {
+        "id": 757,
+        "en": "Max Flare",
+        "fr": "Pyromax"
+    },
+    {
+        "id": 758,
+        "en": "Max Flutterby",
+        "fr": "Insectomax"
+    },
+    {
+        "id": 759,
+        "en": "Max Lightning",
+        "fr": "Fulguromax"
+    },
+    {
+        "id": 760,
+        "en": "Max Strike",
+        "fr": "Normalomax"
+    },
+    {
+        "id": 761,
+        "en": "Max Knuckle",
+        "fr": "Pugilomax"
+    },
+    {
+        "id": 762,
+        "en": "Max Phantasm",
+        "fr": "Spectromax"
+    },
+    {
+        "id": 763,
+        "en": "Max Hailstorm",
+        "fr": "Cryomax"
+    },
+    {
+        "id": 764,
+        "en": "Max Ooze",
+        "fr": "Toxinomax"
+    },
+    {
+        "id": 765,
+        "en": "Max Geyser",
+        "fr": "Hydromax"
+    },
+    {
+        "id": 766,
+        "en": "Max Airstream",
+        "fr": "Aéromax"
+    },
+    {
+        "id": 767,
+        "en": "Max Starfall",
+        "fr": "Enchantomax"
+    },
+    {
+        "id": 768,
+        "en": "Max Wyrmwind",
+        "fr": "Dracomax"
+    },
+    {
+        "id": 769,
+        "en": "Max Mindstorm",
+        "fr": "Psychomax"
+    },
+    {
+        "id": 770,
+        "en": "Max Rockfall",
+        "fr": "Lithomax"
+    },
+    {
+        "id": 771,
+        "en": "Max Quake",
+        "fr": "Sismomax"
+    },
+    {
+        "id": 772,
+        "en": "Max Darkness",
+        "fr": "Sinistromax"
+    },
+    {
+        "id": 773,
+        "en": "Max Overgrowth",
+        "fr": "Phytomax"
+    },
+    {
+        "id": 774,
+        "en": "Max Steelspike",
+        "fr": "Métallomax"
+    },
+    {
+        "id": 775,
+        "en": "Clangorous Soul",
+        "fr": "Dracacophonie"
+    },
+    {
+        "id": 776,
+        "en": "Body Press",
+        "fr": "Big Splash"
+    },
+    {
+        "id": 777,
+        "en": "Decorate",
+        "fr": "Nappage"
+    },
+    {
+        "id": 778,
+        "en": "Drum Beating",
+        "fr": "Tambour Battant"
+    },
+    {
+        "id": 779,
+        "en": "Snap Trap",
+        "fr": "Troquenard"
+    },
+    {
+        "id": 780,
+        "en": "Pyro Ball",
+        "fr": "Ballon Brûlant"
+    },
+    {
+        "id": 781,
+        "en": "Behemoth Blade",
+        "fr": "Gladius Maximus"
+    },
+    {
+        "id": 782,
+        "en": "Behemoth Bash",
+        "fr": "Aegis Maxima"
+    },
+    {
+        "id": 782,
+        "en": "Aura Wheel",
+        "fr": "Roue Libre"
+    },
+    {
+        "id": 784,
+        "en": "Breaking Swipe",
+        "fr": "Abattage"
+    },
+    {
+        "id": 785,
+        "en": "Branch Poke",
+        "fr": "Tapotige"
+    },
+    {
+        "id": 786,
+        "en": "Overdrive",
+        "fr": "Overdrive"
+    },
+    {
+        "id": 787,
+        "en": "Apple Acid",
+        "fr": "Acide Malique"
+    },
+    {
+        "id": 788,
+        "en": "Grav Apple",
+        "fr": "Force G"
+    },
+    {
+        "id": 789,
+        "en": "Spirit Break",
+        "fr": "Choc Émotionnel"
+    },
+    {
+        "id": 790,
+        "en": "Strange Steam",
+        "fr": "Vapeur Féérique"
+    },
+    {
+        "id": 791,
+        "en": "Life Dew",
+        "fr": "Fontaine de Vie"
+    },
+    {
+        "id": 792,
+        "en": "Obstruct",
+        "fr": "Blocage"
+    },
+    {
+        "id": 793,
+        "en": "False Surrender",
+        "fr": "Fourbette"
+    },
+    {
+        "id": 794,
+        "en": "Meteor Assault",
+        "fr": "Joute Astrale"
+    },
+    {
+        "id": 795,
+        "en": "Eternabeam",
+        "fr": "Laser Infinimax"
+    },
+    {
+        "id": 796,
+        "en": "Steel Beam",
+        "fr": "Métalaser"
+    },
+    {
+        "id": 797,
+        "en": "Expanding Force",
+        "fr": "Vaste Pouvoir"
+    },
+    {
+        "id": 798,
+        "en": "Steel Roller",
+        "fr": "Métalliroue"
+    },
+    {
+        "id": 799,
+        "en": "Scale Shot",
+        "fr": "Rafale Écailles"
+    },
+    {
+        "id": 800,
+        "en": "Meteor Beam",
+        "fr": "Laser Météore"
+    },
+    {
+        "id": 801,
+        "en": "Shell Side Arm",
+        "fr": "Kokiyarme"
+    },
+    {
+        "id": 802,
+        "en": "Misty Explosion",
+        "fr": "Explo-Brume"
+    },
+    {
+        "id": 803,
+        "en": "Grassy Glide",
+        "fr": "Gliss'Herbe"
+    },
+    {
+        "id": 804,
+        "en": "Rising Voltage",
+        "fr": "Monte-Tension"
+    },
+    {
+        "id": 805,
+        "en": "Terrain Pulse",
+        "fr": "Champlification"
+    },
+    {
+        "id": 806,
+        "en": "Skitter Smack",
+        "fr": "Ravage Rampant"
+    },
+    {
+        "id": 807,
+        "en": "Burning Jealousy",
+        "fr": "Feu Envieux"
+    },
+    {
+        "id": 808,
+        "en": "Lash Out",
+        "fr": "Cent Rancunes"
+    },
+    {
+        "id": 809,
+        "en": "Poltergeist",
+        "fr": "Esprit Frappeur"
+    },
+    {
+        "id": 810,
+        "en": "Corrosive Gas",
+        "fr": "Gaz Corrosif"
+    },
+    {
+        "id": 811,
+        "en": "Coaching",
+        "fr": "Coaching"
+    },
+    {
+        "id": 812,
+        "en": "Flip Turn",
+        "fr": "Eau Revoir"
+    },
+    {
+        "id": 813,
+        "en": "Triple Axel",
+        "fr": "Triple Axel"
+    },
+    {
+        "id": 814,
+        "en": "Dual Wingbeat",
+        "fr": "Double Volée"
+    },
+    {
+        "id": 815,
+        "en": "Scorching Sands",
+        "fr": "Sable Ardent"
+    },
+    {
+        "id": 816,
+        "en": "Jungle Healing",
+        "fr": "Selve Salvatrice"
+    },
+    {
+        "id": 817,
+        "en": "Wicked Blow",
+        "fr": "Poing Obscur"
+    },
+    {
+        "id": 818,
+        "en": "Surging Strikes",
+        "fr": "Torrent de Coups"
+    },
+    {
+        "id": 819,
+        "en": "Thunder Cage",
+        "fr": "Voltageôle"
+    },
+    {
+        "id": 820,
+        "en": "Dragon Energy",
+        "fr": "Draco-Énergie"
+    },
+    {
+        "id": 821,
+        "en": "Freezing Glare",
+        "fr": "Regard Glaçant"
+    },
+    {
+        "id": 822,
+        "en": "Fiery Wrath",
+        "fr": "Fureur Ardente"
+    },
+    {
+        "id": 823,
+        "en": "Thunderous Kick",
+        "fr": "Coup Fulgurant"
+    },
+    {
+        "id": 824,
+        "en": "Glacial Lance",
+        "fr": "Lance de Glace"
+    },
+    {
+        "id": 825,
+        "en": "Astral Barrage",
+        "fr": "Éclat Spectral"
+    },
+    {
+        "id": 826,
+        "en": "Eerie Spell",
+        "fr": "Sort Sinistre"
+    },
+    {
+        "id": 827,
+        "en": "Dire Claw",
+        "fr": "Griffes Funestes"
+    },
+    {
+        "id": 828,
+        "en": "Psyshield Bash",
+        "fr": "Sprint Bouclier"
+    },
+    {
+        "id": 829,
+        "en": "Power Shift",
+        "fr": "Échange Force"
+    },
+    {
+        "id": 830,
+        "en": "Stone Axe",
+        "fr": "Hache de Pierre"
+    },
+    {
+        "id": 831,
+        "en": "Springtide Storm",
+        "fr": "Typhon Passionné"
+    },
+    {
+        "id": 832,
+        "en": "Mystical Power",
+        "fr": "Force Mystique"
+    },
+    {
+        "id": 833,
+        "en": "Raging Fury",
+        "fr": "Grand Courroux"
+    },
+    {
+        "id": 834,
+        "en": "Wave Crash",
+        "fr": "Aquatacle"
+    },
+    {
+        "id": 835,
+        "en": "Chloroblast",
+        "fr": "Herblast"
+    },
+    {
+        "id": 836,
+        "en": "Mountain Gale",
+        "fr": "Bise Glaciaire"
+    },
+    {
+        "id": 837,
+        "en": "Victory Dance",
+        "fr": "Danse Victoire"
+    },
+    {
+        "id": 838,
+        "en": "Headlong Rush",
+        "fr": "Assaut Frontal"
+    },
+    {
+        "id": 839,
+        "en": "Barb Barrage",
+        "fr": "Multitoxik"
+    },
+    {
+        "id": 840,
+        "en": "Esper Wing",
+        "fr": "Ailes Psycho"
+    },
+    {
+        "id": 841,
+        "en": "Bitter Malice",
+        "fr": "Cœur de Rancœur"
+    },
+    {
+        "id": 842,
+        "en": "Shelter",
+        "fr": "Mur Fumigène"
+    },
+    {
+        "id": 843,
+        "en": "Triple Arrows",
+        "fr": "Triple Flèche"
+    },
+    {
+        "id": 844,
+        "en": "Infernal Parade",
+        "fr": "Cortège Funèbre"
+    },
+    {
+        "id": 845,
+        "en": "Ceaseless Edge",
+        "fr": "Vagues à Lames"
+    },
+    {
+        "id": 846,
+        "en": "Bleakwind Storm",
+        "fr": "Typhon Hivernal"
+    },
+    {
+        "id": 847,
+        "en": "Wildbolt Storm",
+        "fr": "Typhon Fulgurant"
+    },
+    {
+        "id": 848,
+        "en": "Sandsear Storm",
+        "fr": "Typhon Pyrosable"
+    },
+    {
+        "id": 849,
+        "en": "Lunar Blessing",
+        "fr": "Prière Lunaire"
+    },
+    {
+        "id": 850,
+        "en": "Take Heart",
+        "fr": "Extravaillance"
+    },
+    {
+        "id": 851,
+        "en": "Tera Blast",
+        "fr": "Téra Explosion"
+    },
+    {
+        "id": 852,
+        "en": "Silk Trap",
+        "fr": "Piège de Fil"
+    },
+    {
+        "id": 853,
+        "en": "Axe Kick",
+        "fr": "Talon-Marteau"
+    },
+    {
+        "id": 854,
+        "en": "Last Respects",
+        "fr": "Hommage Posthume"
+    },
+    {
+        "id": 855,
+        "en": "Lumina Crash",
+        "fr": "Lumino-Impact"
+    },
+    {
+        "id": 856,
+        "en": "Order Up",
+        "fr": "Plat du Jour"
+    },
+    {
+        "id": 857,
+        "en": "Jet Punch",
+        "fr": "Poing Sonique"
+    },
+    {
+        "id": 858,
+        "en": "Spicy Extract",
+        "fr": "Habanerage"
+    },
+    {
+        "id": 859,
+        "en": "Spin Out",
+        "fr": "Dérapage"
+    },
+    {
+        "id": 860,
+        "en": "Population Bomb",
+        "fr": "Prolifération"
+    },
+    {
+        "id": 861,
+        "en": "Ice Spinner",
+        "fr": "Cryo-Pirouette"
+    },
+    {
+        "id": 862,
+        "en": "Glaive Rush",
+        "fr": "Charge Glaive"
+    },
+    {
+        "id": 863,
+        "en": "Revival Blessing",
+        "fr": "Second Souffle"
+    },
+    {
+        "id": 864,
+        "en": "Salt Cure",
+        "fr": "Salaison"
+    },
+    {
+        "id": 865,
+        "en": "Triple Dive",
+        "fr": "Triple Plongeon"
+    },
+    {
+        "id": 866,
+        "en": "Mortal Spin",
+        "fr": "Toupie Éclat"
+    },
+    {
+        "id": 867,
+        "en": "Doodle",
+        "fr": "Décalquage"
+    },
+    {
+        "id": 868,
+        "en": "Fillet Away",
+        "fr": "Décharnement"
+    },
+    {
+        "id": 869,
+        "en": "Kowtow Cleave",
+        "fr": "Génusection"
+    },
+    {
+        "id": 870,
+        "en": "Flower Trick",
+        "fr": "Magie Florale"
+    },
+    {
+        "id": 871,
+        "en": "Torch Song",
+        "fr": "Chant Flamboyant"
+    },
+    {
+        "id": 872,
+        "en": "Aqua Step",
+        "fr": "Danse Aquatique"
+    },
+    {
+        "id": 873,
+        "en": "Raging Bull",
+        "fr": "Taurogne"
+    },
+    {
+        "id": 874,
+        "en": "Make It Rain",
+        "fr": "Ruée d'Or"
+    },
+    {
+        "id": 875,
+        "en": "Psyblade",
+        "fr": "Lame Psychique"
+    },
+    {
+        "id": 876,
+        "en": "Hydro Steam",
+        "fr": "Hydrovapeur"
+    },
+    {
+        "id": 877,
+        "en": "Ruination",
+        "fr": "Cataclysme"
+    },
+    {
+        "id": 878,
+        "en": "Collision Course",
+        "fr": "Nitro Crash"
+    },
+    {
+        "id": 879,
+        "en": "Electro Drift",
+        "fr": "Turbo Volt"
+    },
+    {
+        "id": 880,
+        "en": "Shed Tail",
+        "fr": "Queulonage"
+    },
+    {
+        "id": 881,
+        "en": "Chilly Reception",
+        "fr": "Neigeux de Mots"
+    },
+    {
+        "id": 882,
+        "en": "Tidy Up",
+        "fr": "Grand Nettoyage"
+    },
+    {
+        "id": 883,
+        "en": "Snowscape",
+        "fr": "Chute de Neige"
+    },
+    {
+        "id": 884,
+        "en": "Pounce",
+        "fr": "Bond"
+    },
+    {
+        "id": 885,
+        "en": "Trailblaze",
+        "fr": "Désherbaffe"
+    },
+    {
+        "id": 886,
+        "en": "Chilling Water",
+        "fr": "Douche Froide"
+    },
+    {
+        "id": 887,
+        "en": "Hyper Drill",
+        "fr": "Hyperceuse"
+    },
+    {
+        "id": 888,
+        "en": "Twin Beam",
+        "fr": "Double Laser"
+    },
+    {
+        "id": 889,
+        "en": "Rage Fist",
+        "fr": "Poing de Colère"
+    },
+    {
+        "id": 890,
+        "en": "Armor Cannon",
+        "fr": "Canon Blindé"
+    },
+    {
+        "id": 891,
+        "en": "Bitter Blade",
+        "fr": "Lame en Peine"
+    },
+    {
+        "id": 892,
+        "en": "Double Shock",
+        "fr": "Double Décharge"
+    },
+    {
+        "id": 893,
+        "en": "Gigaton Hammer",
+        "fr": "Marteau Mastoc"
+    },
+    {
+        "id": 894,
+        "en": "Comeuppance",
+        "fr": "Vindicte"
+    },
+    {
+        "id": 895,
+        "en": "Aqua Cutter",
+        "fr": "Tranch'Aqua"
+    },
+    {
+        "id": 901,
+        "en": "Blood Moon",
+        "fr": "Lune Rouge"
+    },
+    {
+        "id": 902,
+        "en": "Matcha Gotcha",
+        "fr": "Mortier Matcha"
+    },
+    {
+        "id": 903,
+        "en": "Syrup Bomb",
+        "fr": "Bombe au Sirop"
+    },
+    {
+        "id": 904,
+        "en": "Ivy Cudgel",
+        "fr": "Massue Liane"
+    },
+    {
+        "id": 905,
+        "en": "Electro Shot",
+        "fr": "Fulgurayon"
+    },
+    {
+        "id": 906,
+        "en": "Tera Starstorm",
+        "fr": "Pluie Térastrale"
+    },
+    {
+        "id": 907,
+        "en": "Fickle Beam",
+        "fr": "Laser Hasard"
+    },
+    {
+        "id": 908,
+        "en": "Burning Bulwark",
+        "fr": "Rempart Brûlant"
+    },
+    {
+        "id": 909,
+        "en": "Thunderclap",
+        "fr": "Vif Éclair"
+    },
+    {
+        "id": 910,
+        "en": "Mighty Cleave",
+        "fr": "Lame Puissante"
+    },
+    {
+        "id": 911,
+        "en": "Tachyon Cutter",
+        "fr": "Lame Tachyonique"
+    },
+    {
+        "id": 912,
+        "en": "Hard Press",
+        "fr": "Pression Extrême"
+    },
+    {
+        "id": 913,
+        "en": "Dragon Cheer",
+        "fr": "Cri Draconique"
+    },
+    {
+        "id": 914,
+        "en": "Alluring Voice",
+        "fr": "Voix Envoûtante"
+    },
+    {
+        "id": 915,
+        "en": "Temper Flare",
+        "fr": "Indignition"
+    },
+    {
+        "id": 916,
+        "en": "Supercell Slam",
+        "fr": "Volt Assaut"
+    },
+    {
+        "id": 917,
+        "en": "Psychic Noise",
+        "fr": "Dissonance Psy"
+    },
+    {
+        "id": 918,
+        "en": "Upper Hand",
+        "fr": "Prio-Parade"
+    },
+    {
+        "id": 919,
+        "en": "Malignant Chain",
+        "fr": "Chaîne Malsaine"
+    }
+]
